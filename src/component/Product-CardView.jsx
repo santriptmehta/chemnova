@@ -2,17 +2,16 @@
 
 import { Beaker } from "lucide-react"
 import { useState } from "react"
-import { useRouter } from "next/navigation"
-
+import { useProductContext } from "./product-context"
 
 export default function ProductCard({ product }) {
   const [expanded, setExpanded] = useState(false)
+  const { viewProductDetail } = useProductContext()
 
   const toggleDescription = () => {
     setExpanded(!expanded)
   }
 
-  
   // Truncate description if not expanded
   const displayDescription = expanded
     ? product.description || ""
@@ -60,7 +59,10 @@ export default function ProductCard({ product }) {
         </div>
 
         <div className="mt-6 flex gap-3">
-          <button className="bg-blue-800 hover:bg-blue-900 text-white rounded-md py-2 px-4 text-sm font-medium">
+          <button
+            onClick={() => viewProductDetail(product)}
+            className="bg-blue-800 hover:bg-blue-900 text-white rounded-md py-2 px-4 text-sm font-medium"
+          >
             View Product
           </button>
           <button className="border border-blue-800 text-blue-800 hover:bg-blue-50 rounded-md py-2 px-4 text-sm font-medium">

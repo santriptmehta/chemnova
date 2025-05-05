@@ -2,12 +2,23 @@
 
 import { useState, useEffect } from "react"
 import { ChevronDown, ChevronUp, Search, ChevronLeft, ChevronRight } from "lucide-react"
-import ProductCard from "./Product-CardView"
+import ProductCard from "./Product-CardView.jsx"
+import ProductDescription from "./Product-Discription.jsx"
+import { ProductProvider, useProductContext } from "./product-context"
 import IndustrialData from "../data/IndustrialChemical.json"
 import FoodAndFeedData from "../data/FoodFeedAddatives.json"
-import { useLocation } from "react-router-dom"
 
 export default function ProductListing() {
+  return (
+    <ProductProvider>
+      <ProductListingContent />
+    </ProductProvider>
+  )
+}
+
+function ProductListingContent() {
+  const { showProductDetail, selectedProduct, goBackToListing } = useProductContext()
+
   const [expandedAccordions, setExpandedAccordions] = useState({
     industry: true,
     category: false,
@@ -29,10 +40,6 @@ export default function ProductListing() {
   const [currentPage, setCurrentPage] = useState(1)
   const productsPerPage = 9
 
-  // Get the current location
-  const location = useLocation()
-
-  // Data sources mapping
   const DATA_SOURCES = {
     "Industrial Chemicals": {
       data: IndustrialData,
@@ -46,10 +53,10 @@ export default function ProductListing() {
   }
 
   useEffect(() => {
-    // Reset states when URL changes
+    // Reset states when component mounts
     setCurrentPage(1)
     loadAllProducts()
-  }, [location.pathname])
+  }, [])
 
   const loadAllProducts = () => {
     let combinedProducts = []
@@ -57,30 +64,26 @@ export default function ProductListing() {
     const allCategories = []
     const allSubCategories = []
 
-    // Loop through all data sources to combine products
     Object.keys(DATA_SOURCES).forEach((industryName) => {
       const { data, key } = DATA_SOURCES[industryName]
 
       if (data && data[key]) {
         try {
-          // Extract products from the data source
+          //products from the data source
           const industryProducts = data[key].map((product) => {
-            // Add industry to the product for filtering
+            //industry to the product for filtering
             return {
               ...product,
               industry: industryName,
             }
           })
 
-          // Add to combined products
           combinedProducts = [...combinedProducts, ...industryProducts]
-
-          // Add to industries list
           if (!allIndustries.includes(industryName)) {
             allIndustries.push(industryName)
           }
 
-          // Extract categories and subcategories
+          //categories and subcategories
           industryProducts.forEach((product) => {
             // Add categories
             if (product.categories && product.categories.length > 0) {
@@ -114,7 +117,6 @@ export default function ProductListing() {
     setSubCategories(allSubCategories)
   }
 
-  // Toggle accordion sections
   const toggleAccordion = (accordion) => {
     setExpandedAccordions({
       ...expandedAccordions,
@@ -122,20 +124,17 @@ export default function ProductListing() {
     })
   }
 
-  // Handle industry selection
   const handleIndustryChange = (industry) => {
     let updatedIndustries
 
     if (selectedIndustries.includes(industry)) {
-      // Remove industry if already selected
       updatedIndustries = selectedIndustries.filter((item) => item !== industry)
     } else {
-      // Add industry if not selected
       updatedIndustries = [...selectedIndustries, industry]
     }
 
     setSelectedIndustries(updatedIndustries)
-    setCurrentPage(1) // Reset to first page when changing filters
+    setCurrentPage(1)
   }
 
   // Handle category selection
@@ -143,15 +142,12 @@ export default function ProductListing() {
     let updatedCategories
 
     if (selectedCategories.includes(category)) {
-      // Remove category if already selected
       updatedCategories = selectedCategories.filter((item) => item !== category)
     } else {
-      // Add category if not selected
       updatedCategories = [...selectedCategories, category]
     }
-
     setSelectedCategories(updatedCategories)
-    setCurrentPage(1) // Reset to first page when changing filters
+    setCurrentPage(1) 
   }
 
   // Handle subcategory selection
@@ -159,18 +155,15 @@ export default function ProductListing() {
     let updatedSubCategories
 
     if (selectedSubCategories.includes(subCategory)) {
-      // Remove subcategory if already selected
       updatedSubCategories = selectedSubCategories.filter((item) => item !== subCategory)
     } else {
-      // Add subcategory if not selected
       updatedSubCategories = [...selectedSubCategories, subCategory]
     }
 
     setSelectedSubCategories(updatedSubCategories)
-    setCurrentPage(1) // Reset to first page when changing filters
+    setCurrentPage(1)
   }
 
-  // Handle "Select All" for industries
   const handleSelectAllIndustries = (isSelected) => {
     if (isSelected) {
       setSelectedIndustries(industries)
@@ -180,7 +173,6 @@ export default function ProductListing() {
     setCurrentPage(1)
   }
 
-  // Handle "Select All" for categories
   const handleSelectAllCategories = (isSelected) => {
     if (isSelected) {
       setSelectedCategories(categories)
@@ -190,7 +182,6 @@ export default function ProductListing() {
     setCurrentPage(1)
   }
 
-  // Handle "Select All" for subcategories
   const handleSelectAllSubCategories = (isSelected) => {
     if (isSelected) {
       setSelectedSubCategories(subCategories)
@@ -200,23 +191,18 @@ export default function ProductListing() {
     setCurrentPage(1)
   }
 
-  // Filter products based on selected filters and search query
   const filteredProducts = allProducts.filter((product) => {
-    // Filter by industry
     const matchesIndustry =
       selectedIndustries.length === 0 || (product.industry && selectedIndustries.includes(product.industry))
 
-    // Filter by category
     const matchesCategory =
       selectedCategories.length === 0 ||
       (product.categories && product.categories.some((cat) => selectedCategories.includes(cat)))
 
-    // Filter by subcategory
-    const matchesSubCategory =
+      const matchesSubCategory =
       selectedSubCategories.length === 0 ||
       (product.sub_categories && product.sub_categories.some((subCat) => selectedSubCategories.includes(subCat)))
 
-    // Filter by search query
     const matchesSearch =
       searchQuery === "" ||
       (product.name && product.name.toLowerCase().includes(searchQuery.toLowerCase())) ||
@@ -226,24 +212,22 @@ export default function ProductListing() {
     return matchesIndustry && matchesCategory && matchesSubCategory && matchesSearch
   })
 
-  // Get current products for pagination
+  //products for pagination
   const indexOfLastProduct = currentPage * productsPerPage
   const indexOfFirstProduct = indexOfLastProduct - productsPerPage
   const currentProducts = filteredProducts.slice(indexOfFirstProduct, indexOfLastProduct)
-
-  // Calculate total pages
   const totalPages = Math.ceil(filteredProducts.length / productsPerPage)
 
   const handlePageChange = (pageNumber) => {
     setCurrentPage(pageNumber)
-    // Scroll to top when changing page
     window.scrollTo({ top: 0, behavior: "smooth" })
   }
-
-  // Generate page numbers for pagination
   const pageNumbers = []
   for (let i = 1; i <= totalPages; i++) {
     pageNumbers.push(i)
+  }
+  if (showProductDetail && selectedProduct) {
+    return <ProductDescription product={selectedProduct} onBack={goBackToListing} />
   }
 
   return (

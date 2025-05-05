@@ -39,7 +39,7 @@ import {
           </div>
         </div>
         <p className="mt-8 text-base leading-6 text-center text-gray-400 m-10">
-            © 2021 Chem Novaa, Inc. All rights reserved.
+            © 2025 Chem Novaa, Inc. All rights reserved.
         </p>
         <p className='mt-6 text-base leading-6 text-center text-gray-500 m-10'>App Code Version : {__APP_VERSION__}</p>
       </section>
