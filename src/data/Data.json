@@ -1,0 +1,92 @@
+{
+    "products": {
+      "Industrial Chemicals": [
+        {
+          "name": "Aluminum Chlorohydrate 50%",
+          "cas_number": "12042-91-0",
+          "features": [
+            "High Basicity",
+            "Effective coagulation and flocculation performance",
+            "FDA EU regulated : cosmetic formulations and water treatment applications",
+            "Multirole water purification systems : Drinking water and wastewater"
+          ],
+          "description": "Aluminum Chlorohydrate 50% Solution is an aqueous solution used predominantly in water treatment processes as a coagulant. It is also used in cosmetic formulations, especially in antiperspirants. This compound has high efficiency in removing impurities and suspended solids from water, and it acts as an essential component in flocculation.",
+          "images": {
+            "structure_diagram": "image_of_chemical_structure.png",
+            "product_photo": "image_of_product_drum.png"
+          }
+        },
+        {
+          "name": "7,8-DIHYDRO-5H-CYCLOHEPTA[b]PYRIDINE-5,9(6H)-DIONE (Rimegepant)",
+          "cas_number": "39713-40-1",
+          "features": [
+            "Heterocyclic Building Blocks",
+            "CROs and CDMOs : Small-molecule pathway development",
+            "Pharma R&D Intermediate-Stage CNS compound",
+            "Pilot-to-commercial transition regulated synthesis",
+            "Versatile Scaffold : CNS and oncology pipelines",
+            "Substitution-Ready Core",
+            "Low Impurity Risk",
+            "Synthesis Hubs: India, China, Eastern Europe"
+          ],
+          "description": "A key fused-ring heterocyclic compound, this intermediate is used in the synthesis of advanced CNS-targeting molecules and diversified heterocyclic scaffolds. Its dione structure enables substitution and low-impurity synthesis for scalable pharmaceutical development.",
+          "images": {
+            "structure_diagram": "image_of_structure_rimegepant.png"
+          }
+        },
+        {
+          "name": "Zinc Octoate – 22%",
+          "cas_no": "51731-04-5",
+          "description": "Zinc Octoate is a zinc-based metal carboxylate used as a catalyst and drier in coatings and paints. It helps oxidize drying oils, enhancing the curing process in coatings. It is also used in polyurethane production and as a hydrogen sulfide scavenger.",
+          "tags_features": [
+            "Polyurethane Production",
+            "Polymerization and curing stages of chemical production",
+            "Catalyst for Curing – Paints & Coatings",
+            "Versatile in Multiple Industries",
+            "Hydrogen Sulfide Scavenger"
+          ],
+          "industry": "Industrial Chemicals",
+          "category": "Inorganic Chemicals",
+          "sub_category": "Metal Carboxylates"
+        },
+        {
+          "name": "Meat Bone Meal Supplement (Agriculture Grade)",
+          "cas_no": "Natural blended fertilizer",
+          "description": "Meat Bone Meal (MBM) is derived from rendered animal bones and tissues. It is sterilized and ground into a fine meal, used for phosphorus and calcium enrichment. It supports flowering, fruiting, and root development in soil health programs.",
+          "tags_features": [
+            "Organic Phosphorus-Rich Animal-Based Fertilizer",
+            "Slow-Release Nutrient Source",
+            "pH Buffering Capability",
+            "Calcium Enrichment",
+            "Minimal Leaching Risk",
+            "Sustainable in phosphorus input-restricted zones",
+            "FCO (India), OMRI, USDA-NOP, EU Fertilizer Regulation (2019/1009)"
+          ],
+          "industry": "Agrochemicals",
+          "category": "Plant Health, Nutrients & Soil Management"
+        },
+        {
+          "name": "Fish Meal Supplement (Agriculture Grade)",
+          "cas_no": "Natural blended material",
+          "description": "A nitrogen-rich organic input made from whole fish or trimmings. Promotes plant growth, improves soil microbiota, and provides slow-release nutrients. Used in soil amendment and as a base fertilizer.",
+          "tags_features": [
+            "Organic Marine Protein Fertilizer",
+            "Granular Fertilizer",
+            "Sustainable Horticulture",
+            "Biofertilizer Blend",
+            "Slow-Release Efficiency",
+            "Multi-Micronutrient Source",
+            "pH Buffering",
+            "Improves Soil Texture",
+            "FCO (India), OMRI, USDA-NOP, EU Fertilizer Regulation (2019/1009)"
+          ],
+          "industry": "Agrochemicals",
+          "category": "Plant Health, Nutrients & Soil Management"
+        }
+      ],
+      "Construction Chemicals": [],
+      "Beauty & Personal Chemicals": [],
+      "Food & Feed Additives": []
+    }
+  }
+  

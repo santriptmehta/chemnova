@@ -1,0 +1,287 @@
+{
+    "total_products": 2,
+    "Food and Feed Additives": [
+        {
+            "id": "product_1682912345678",
+            "created_at": "",
+            "updated_at": "",
+            "name": "Sodium Alginate",
+            "pubchem_cid": "",
+            "hsn_no": "",
+            "description": "Sodium Alginate is a natural polysaccharide extracted from seaweed carbohydrates. Widely used in food, pharmaceutical, textile, printing and dyeing, paper making, daily-use chemical products as a thickener, emulsifier, stabilizer, binder, and sizing agent. In the pharmaceutical industry, it has anti-clotting, lowering blood pressure, and blood viscosity reduction effects.",
+            "industries": [
+                "Food and Feed Additives"
+            ],
+            "categories": [
+                "Biopolymers"
+            ],
+            "sub_categories": [],
+            "cas_number": "9005-38-3",
+            "product_images": [
+                "https://www.growingchemical.com/image/1.jpg"
+            ],
+            "certificates": [],
+            "synonyms": null,
+            "molecular_formula": "C5H7O4COONa",
+            "iupac_name": "Sodium alginate",
+            "properties": [
+                {
+                    "key": "Appearance",
+                    "value": "Creamy white powder"
+                },
+                {
+                    "key": "Particular Size",
+                    "value": "80 mesh"
+                },
+                {
+                    "key": "Viscosity (1%)",
+                    "value": "400-600"
+                },
+                {
+                    "key": "Content (%)",
+                    "value": "90.8 - 106.0"
+                },
+                {
+                    "key": "Loss on drying",
+                    "value": "15 max"
+                },
+                {
+                    "key": "Water-Insoluble Matter",
+                    "value": "≤2"
+                },
+                {
+                    "key": "Ash",
+                    "value": "18 - 27"
+                },
+                {
+                    "key": "pH",
+                    "value": "6.0 - 8.0"
+                },
+                {
+                    "key": "Formaldehyde",
+                    "value": "≤50mg/kg"
+                },
+                {
+                    "key": "Arsenic",
+                    "value": "≤3 mg/kg"
+                },
+                {
+                    "key": "Lead",
+                    "value": "≤5 mg/kg"
+                },
+                {
+                    "key": "Mercury",
+                    "value": "≤1mg/kg"
+                },
+                {
+                    "key": "Cadmium",
+                    "value": "≤1mg/kg"
+                },
+                {
+                    "key": "Total Plate Count",
+                    "value": "<5000 cfu/g"
+                },
+                {
+                    "key": "Yeast & Mold",
+                    "value": "<500 cfu/g"
+                },
+                {
+                    "key": "E.Coli & Salmonella",
+                    "value": "Negative"
+                }
+            ],
+            "safety_and_hazard": [],
+            "pictogram": null,
+            "used_in_manufacturing": [],
+            "manufactured_form": [],
+            "applications": [
+                {
+                    "key": "Food Industry",
+                    "value": "Used for stability in dairy, thickening in condiments, hydration in noodles and breads, gelling in imitation foods, and film-forming in cosmetics."
+                },
+                {
+                    "key": "Pharmaceutical Industry",
+                    "value": "Used in dental materials, as a hemostatic agent, and for blocking radioactive and harmful metals."
+                },
+                {
+                    "key": "Other Industries",
+                    "value": "Used in papermaking, agriculture, welding rods, resins, battery separators, and man-made fibers."
+                }
+            ],
+            "storage": [
+                {
+                    "key": "Typical Properties",
+                    "value": "White to Off-white powder. Soluble in water. Insoluble in alcohol, chloroform and ether."
+                },
+                {
+                    "key": "Packing",
+                    "value": "In 25kgs cardboard drum, lined with PE bag"
+                }
+            ],
+            "variants": [],
+            "is_variant": false,
+            "is_product": true,
+            "derived_from": [],
+            "active_in_catalog": true,
+            "is_combination_of_products": false,
+            "combination_product_base_compounds": [],
+            "canonical_smiles": "",
+            "inchi_key": "",
+            "inchi": "",
+            "is_exclusive": false,
+            "einecs_number": "231-915-5",
+            "fema_number": "",
+            "shelf_life": "",
+            "odor_profile": null,
+            "manufacturers_certificates": [],
+            "uses": [
+                ""
+            ],
+            "end_use_api": [
+                ""
+            ],
+            "export_countries": [],
+            "product_sales_pitch": "",
+            "material_sold": "",
+            "analytical_report": null,
+            "three_batch_reports": null,
+            "purity_report": null,
+            "highlights": [],
+            "mdl_number": "",
+            "unspsc_code": "",
+            "eclass": "",
+            "nacres": "",
+            "opinion": [],
+            "valid_product": true,
+            "faq": [],
+            "faq_description": "",
+            "available_as": null,
+            "slug_name": "sodium-alginate",
+            "best_selling": false,
+            "new_product": false,
+            "interlinks": [],
+            "reactions": []
+        },
+        {
+            "id": "product_1682919876543",
+            "created_at": "",
+            "updated_at": "",
+            "name": "Acesulfame-K",
+            "pubchem_cid": "",
+            "hsn_no": "",
+            "description": "Acesulfame-K is a fourth-generation high-intensity sweetener. Thermally stable, calorie-free, and about 200 times sweeter than sugar. Approved by FDA in 1988 and widely used in food and sugar-free formulations. Excellent shelf life and does not degrade during cooking or baking.",
+            "industries": [
+                "Food and Feed Additives"
+            ],
+            "categories": [
+                "Sweeteners"
+            ],
+            "sub_categories": [],
+            "cas_number": "55589-62-3",
+            "product_images": [
+                "https://www.growingchemical.com/image/acesulfame-k.jpg"
+            ],
+            "certificates": [],
+            "synonyms": null,
+            "molecular_formula": "C4H4KNO4S",
+            "iupac_name": "Acesulfame potassium",
+            "properties": [
+                {
+                    "key": "Bibliography",
+                    "value": "FCC IV"
+                },
+                {
+                    "key": "Appearance",
+                    "value": "White, odorless, free-flowing crystalline powder"
+                },
+                {
+                    "key": "Assay (%)",
+                    "value": "99.0 - 101.0"
+                },
+                {
+                    "key": "Loss on Drying (%)",
+                    "value": "1.0 max"
+                },
+                {
+                    "key": "Heavy Metals (ppm)",
+                    "value": "10 max"
+                },
+                {
+                    "key": "Sulfate (%)",
+                    "value": "0.2 max"
+                },
+                {
+                    "key": "Arsenic",
+                    "value": "3 ppm max"
+                }
+            ],
+            "safety_and_hazard": [],
+            "pictogram": null,
+            "used_in_manufacturing": [],
+            "manufactured_form": [],
+            "applications": [
+                {
+                    "key": "Food and Beverage",
+                    "value": "Used in drinks, candies, cakes, ice cream, puddings, sweet baked goods, and dairy products."
+                },
+                {
+                    "key": "Other Uses",
+                    "value": "Used in pharmaceuticals, household products, and cosmetics."
+                }
+            ],
+            "storage": [
+                {
+                    "key": "Typical Properties",
+                    "value": "Very soluble in water, stable to light, heat, acid, alkali and microorganisms. Does not absorb moisture from air."
+                },
+                {
+                    "key": "Packing",
+                    "value": "In 25Kg/bag"
+                }
+            ],
+            "variants": [],
+            "is_variant": false,
+            "is_product": true,
+            "derived_from": [],
+            "active_in_catalog": true,
+            "is_combination_of_products": false,
+            "combination_product_base_compounds": [],
+            "canonical_smiles": "",
+            "inchi_key": "",
+            "inchi": "",
+            "is_exclusive": false,
+            "einecs_number": "259-715-3",
+            "fema_number": "",
+            "shelf_life": "",
+            "odor_profile": null,
+            "manufacturers_certificates": [],
+            "uses": [
+                ""
+            ],
+            "end_use_api": [
+                ""
+            ],
+            "export_countries": [],
+            "product_sales_pitch": "",
+            "material_sold": "",
+            "analytical_report": null,
+            "three_batch_reports": null,
+            "purity_report": null,
+            "highlights": [],
+            "mdl_number": "",
+            "unspsc_code": "",
+            "eclass": "",
+            "nacres": "",
+            "opinion": [],
+            "valid_product": true,
+            "faq": [],
+            "faq_description": "",
+            "available_as": null,
+            "slug_name": "acesulfame-k",
+            "best_selling": false,
+            "new_product": false,
+            "interlinks": [],
+            "reactions": []
+        }
+    ]
+}
