@@ -1,0 +1,1778 @@
+{
+    "total_products": 4865,
+    "products": [
+        {
+            "id": "6807727480e2941c674fe777",
+            "created_at": "2025-04-22T10:41:56.884960",
+            "updated_at": "2025-04-22T12:23:41.555227",
+            "name": "Raw Cocoa Butter",
+            "pubchem_cid": "",
+            "hsn_no": "18040000",
+            "description": "Raw Cocoa Butter is the natural fat extracted from cocoa beans during processing of cocoa mass. It is unrefined and non-deodorized, preserving its characteristic cocoa aroma. Rich in saturated fats and antioxidants, it's used extensively in premium chocolate production, cosmetics, and nutraceutical formulations.",
+            "industries": [
+                "Food & Nutrition"
+            ],
+            "categories": [
+                "Food Ingredients"
+            ],
+            "sub_categories": [],
+            "cas_number": "8002-31-1",
+            "product_images": [
+                "https://cdn.scimplify.com/products/images/6807727480e2941c674fe777/3e881978-b5ac-4fe0-ba76-77998821ef3b.png"
+            ],
+            "certificates": [
+                {
+                    "name": "COA",
+                    "issued_date": null,
+                    "url": "https://cdn.scimplify.com/products/certificates/6807727480e2941c674fe777/COA.pdf"
+                }
+            ],
+            "synonyms": null,
+            "molecular_formula": "",
+            "iupac_name": "Theobroma cacao",
+            "properties": [
+                {
+                    "key": "Raw Cocoa Butter",
+                    "value": "1.70"
+                },
+                {
+                    "key": "Moisture (%)",
+                    "value": "0.2"
+                },
+                {
+                    "key": "Refractive Index (at 40°C)",
+                    "value": "1.454"
+                },
+                {
+                    "key": "Appearance ",
+                    "value": "Pale yellow, brittle solid at room temperature"
+                },
+                {
+                    "key": "Peroxide Value",
+                    "value": "≤ 5 meq/kg"
+                }
+            ],
+            "safety_and_hazard": [
+                {
+                    "key": "GHS Classification",
+                    "value": "Not hazardous\n\n"
+                },
+                {
+                    "key": "Allergen Status",
+                    "value": "Non-allergenic but produced from cocoa\n\n"
+                },
+                {
+                    "key": "Heavy Metals",
+                    "value": "Within global food safety limits\n\n"
+                },
+                {
+                    "key": "Pesticide Residue",
+                    "value": "Conforms to EU/FDA norms\n\n"
+                }
+            ],
+            "pictogram": null,
+            "used_in_manufacturing": [],
+            "manufactured_form": [],
+            "applications": [
+                {
+                    "key": "Chocolate Production",
+                    "value": "Used as the main fat in dark, milk, and white chocolates.\n\n"
+                },
+                {
+                    "key": "Bakery & Confectionery",
+                    "value": "Applied in fillings, coatings, and premium baked goods.\n\n"
+                },
+                {
+                    "key": "Nutraceuticals",
+                    "value": "Used in functional foods for its antioxidant and healthy fat profile.\n\n"
+                },
+                {
+                    "key": "Cosmetics & Personal Care",
+                    "value": "Forms the base of lip balms, moisturizers, and body butters for its emollient properties.\n\n"
+                }
+            ],
+            "storage": [
+                {
+                    "key": "Storage",
+                    "value": "Cool, dry place (below 25°C), avoid heat and direct light"
+                },
+                {
+                    "key": "Stacking",
+                    "value": "2 pallets high (for cartons or blocks)"
+                },
+                {
+                    "key": "Transport",
+                    "value": "Palletized, stretch-wrapped, containerized"
+                },
+                {
+                    "key": "Flexible Packaging",
+                    "value": "25 kg blocks, 5 kg slabs, or bulk cartons"
+                }
+            ],
+            "variants": [],
+            "is_variant": false,
+            "is_product": true,
+            "derived_from": [],
+            "active_in_catalog": true,
+            "is_combination_of_products": false,
+            "combination_product_base_compounds": [],
+            "canonical_smiles": "",
+            "inchi_key": "",
+            "inchi": "",
+            "is_exclusive": false,
+            "einecs_number": "",
+            "fema_number": "",
+            "shelf_life": "",
+            "odor_profile": null,
+            "manufacturers_certificates": [],
+            "uses": [
+                ""
+            ],
+            "end_use_api": [
+                ""
+            ],
+            "export_countries": [],
+            "product_sales_pitch": "",
+            "material_sold": "",
+            "analytical_report": null,
+            "three_batch_reports": null,
+            "purity_report": null,
+            "highlights": [
+                "100% Pressed Cocoa Fat",
+                "Natural cocoa fats",
+                "Naturally Stable Fat",
+                "Non-Deodorized",
+                "Rich Antioxidant",
+                "Suitability: Organic skincare, Nutraceutical, Artisan bakers, Food formulators",
+                "EU Food Safety (1169/2011)",
+                "FDA Approved (21 CFR 163)",
+                "FSSAI (India) Compliant",
+                "Unrefined Natural Cocoa Fat",
+                "Dual usage: Food & Cosmetic"
+            ],
+            "mdl_number": "",
+            "unspsc_code": "",
+            "eclass": "",
+            "nacres": "",
+            "opinion": [],
+            "valid_product": false,
+            "faq": [
+                {
+                    "key": "What is the melting point of raw cocoa butter?",
+                    "value": "Typically 34–38°C, allowing smooth melt-in-mouth properties in chocolates."
+                },
+                {
+                    "key": "Is this cocoa butter deodorized? ",
+                    "value": "No, it retains its natural cocoa aroma—ideal for flavor-rich and natural cosmetic applications."
+                },
+                {
+                    "key": "Can cocoa butter be used in organic formulations? ",
+                    "value": "Yes, it is certified organic when sourced accordingly."
+                },
+                {
+                    "key": "How is cocoa butter stored and handled? ",
+                    "value": "Keep in a cool, dry place below 25°C; avoid direct sunlight and high humidity."
+                },
+                {
+                    "key": "What is the typical fatty acid profile? ",
+                    "value": "Rich in stearic (~35%), palmitic (~25%), oleic (~35%) acids."
+                },
+                {
+                    "key": "Is this product suitable for both food and cosmetic use? ",
+                    "value": "Yes, compliant for dual-use with appropriate certification."
+                },
+                {
+                    "key": "What is your assay? ",
+                    "value": "Free Fatty Acids ≤ 1.5%, Peroxide Value ≤ 5 meq/kg"
+                },
+                {
+                    "key": "What documents are included? ",
+                    "value": "COA, Organic Certificate (if applicable), MSDS, Pesticide Report"
+                }
+            ],
+            "faq_description": "",
+            "available_as": null,
+            "slug_name": "raw-cocoa-butter",
+            "best_selling": false,
+            "new_product": false,
+            "interlinks": [],
+            "reactions": []
+        },
+        {
+            "id": "68075bef80e2941c674fe776",
+            "created_at": "2025-04-22T09:05:51.823375",
+            "updated_at": "2025-04-22T12:27:32.871826",
+            "name": "Raw cocoa mass",
+            "pubchem_cid": "",
+            "hsn_no": "18031000",
+            "description": "Raw Cocoa Mass is produced by grinding roasted or raw cocoa nibs into a rich, aromatic paste that solidifies at room temperature. It contains both cocoa solids and cocoa butter in natural proportions and is the foundational ingredient for dark chocolate, confections, and nutraceutical cocoa products. It is also called Cocoa Liquor. ",
+            "industries": [
+                "Food & Nutrition"
+            ],
+            "categories": [
+                "Food Ingredients"
+            ],
+            "sub_categories": [],
+            "cas_number": "Natural Blend",
+            "product_images": [
+                "https://cdn.scimplify.com/products/images/68075bef80e2941c674fe776/327cd29d-cc39-4d0a-be45-a90f3fd145c4.png"
+            ],
+            "certificates": [
+                {
+                    "name": "COA",
+                    "issued_date": null,
+                    "url": "https://cdn.scimplify.com/products/certificates/68075bef80e2941c674fe776/COA.pdf"
+                }
+            ],
+            "synonyms": null,
+            "molecular_formula": "",
+            "iupac_name": "Theobroma cacao",
+            "properties": [
+                {
+                    "key": "Appearance",
+                    "value": "Dark Brown"
+                },
+                {
+                    "key": "Taste",
+                    "value": "Bitter Chocolaty"
+                },
+                {
+                    "key": "Texture",
+                    "value": "Smooth"
+                },
+                {
+                    "key": "Odor",
+                    "value": "Strong Chocolaty"
+                },
+                {
+                    "key": "pH",
+                    "value": "6"
+                },
+                {
+                    "key": "Moisture",
+                    "value": " ≤ 1.5%"
+                }
+            ],
+            "safety_and_hazard": [
+                {
+                    "key": "GHS Classification",
+                    "value": "Not hazardous\n\n"
+                },
+                {
+                    "key": "Allergen Status",
+                    "value": "Contains cocoa (potential allergen for sensitive individuals)\n\n"
+                },
+                {
+                    "key": "Heavy Metals",
+                    "value": "Below EU/US limits (Cd, Pb, Hg)\n\n"
+                },
+                {
+                    "key": "Pesticide Residue",
+                    "value": " Compliant with Codex and EU norms\n\n"
+                }
+            ],
+            "pictogram": null,
+            "used_in_manufacturing": [],
+            "manufactured_form": [],
+            "applications": [
+                {
+                    "key": "Chocolate Manufacturing",
+                    "value": "Base material for dark, milk, and couverture chocolate production.\n\n"
+                },
+                {
+                    "key": "Functional Foods & Nutraceuticals",
+                    "value": "Used for high-flavanol health products, cocoa-based supplements, and beverages.\n\n"
+                },
+                {
+                    "key": "Confectionery & Baking",
+                    "value": "Incorporated in premium baked goods, truffles, and fillings.\n\n"
+                },
+                {
+                    "key": "Cosmetics (Limited)",
+                    "value": "Occasionally used in lip balms and body butters for aroma and skin feel.\n\n"
+                }
+            ],
+            "storage": [
+                {
+                    "key": "Storage",
+                    "value": "Cool, dry area (≤ 20°C), away from odors and moisture"
+                },
+                {
+                    "key": "Stacking",
+                    "value": " 2 pallets high (blocks); boxed units for buttons"
+                },
+                {
+                    "key": "Transport",
+                    "value": "Palletized, stretch-wrapped, containerized"
+                },
+                {
+                    "key": "Flexible Packaging",
+                    "value": "5 kg blocks, 25 kg cartons, or 1000 kg totes"
+                }
+            ],
+            "variants": [],
+            "is_variant": false,
+            "is_product": true,
+            "derived_from": [],
+            "active_in_catalog": true,
+            "is_combination_of_products": false,
+            "combination_product_base_compounds": [],
+            "canonical_smiles": "",
+            "inchi_key": "",
+            "inchi": "",
+            "is_exclusive": false,
+            "einecs_number": "",
+            "fema_number": "",
+            "shelf_life": "",
+            "odor_profile": null,
+            "manufacturers_certificates": [],
+            "uses": [
+                ""
+            ],
+            "end_use_api": [
+                ""
+            ],
+            "export_countries": [],
+            "product_sales_pitch": "",
+            "material_sold": "",
+            "analytical_report": null,
+            "three_batch_reports": null,
+            "purity_report": null,
+            "highlights": [
+                "Unrefined Cocoa Paste (Non-Alkalized)",
+                "100% Ground Cocoa Nibs (Natural)",
+                "Chocolate processor",
+                "Promoting antioxidant for Nutraceutical",
+                "Suitable Artisan confectioner",
+                "Suitable: Artisan confectioner, Vegan, Raw Food",
+                "Natural Antioxidant Source",
+                "High Fat Content",
+                "Non-Alkalized",
+                "EU Food safety (1699/2011)",
+                "FDA Approved (21 CFR 163)",
+                "FSSAI (India) Complaint"
+            ],
+            "mdl_number": "",
+            "unspsc_code": "",
+            "eclass": "",
+            "nacres": "",
+            "opinion": [],
+            "valid_product": false,
+            "faq": [
+                {
+                    "key": "What is the fat content in raw cocoa mass? ",
+                    "value": "Typically 52–55%, naturally derived from cocoa butter within the nibs."
+                },
+                {
+                    "key": "Is raw cocoa mass suitable for organic chocolate production? ",
+                    "value": "Yes, when sourced from certified organic farms and processed accordingly."
+                },
+                {
+                    "key": "How is raw cocoa mass different from processed cocoa liquor?",
+                    "value": " Raw cocoa mass is unrefined and non-alkalized, preserving higher antioxidant levels and original flavor."
+                },
+                {
+                    "key": "Can this be used in nutraceutical formulations? ",
+                    "value": "Yes, it’s high in flavanols and used in health supplements and functional drinks."
+                },
+                {
+                    "key": "What is the typical packaging format? ",
+                    "value": "Supplied in 5 kg blocks, 25 kg cartons, or bulk totes, depending on buyer requirements."
+                },
+                {
+                    "key": "What is your assay? ",
+                    "value": "Cocoa Butter 52–55%, Moisture ≤ 1.5%, pH 5.2–6.0"
+                },
+                {
+                    "key": "What are your payment terms? ",
+                    "value": "30–50% advance, balance on dispatch (standard)"
+                },
+                {
+                    "key": "Is this product allergen-free? ",
+                    "value": "Cocoa is considered a potential allergen; produced in allergen-controlled facilities."
+                },
+                {
+                    "key": "What documents are included? ",
+                    "value": "COA, Organic Certificate, Pesticide Residue Report, MSDS"
+                }
+            ],
+            "faq_description": "",
+            "available_as": null,
+            "slug_name": "raw-cocoa-mass",
+            "best_selling": false,
+            "new_product": false,
+            "interlinks": [],
+            "reactions": []
+        },
+        {
+            "id": "68038c2113120a5667f0c6cc",
+            "created_at": "2025-04-19T11:42:25.710819",
+            "updated_at": "2025-04-19T11:57:56.068335",
+            "name": "Blood Meal Supplement (Agriculture Grade)",
+            "pubchem_cid": "",
+            "hsn_no": "31010099",
+            "description": "Blood Meal is a dry, sterilized animal byproduct rich in nitrogen, used as an organic soil amendment and fertilizer. It provides rapid nitrogen uptake and improves soil organic matter, commonly applied in organic farming, horticulture, and nitrogen-deficient soil zones.",
+            "industries": [
+                "Agrochemicals"
+            ],
+            "categories": [
+                "Plant Health, Nutrients & Soil Management"
+            ],
+            "sub_categories": [],
+            "cas_number": "Natural blended material",
+            "product_images": [
+                "https://cdn.scimplify.com/products/images/68038c2113120a5667f0c6cc/eac8e460-da07-447a-ac30-001f2a75356f.png"
+            ],
+            "certificates": [
+                {
+                    "name": "COA",
+                    "issued_date": null,
+                    "url": "https://cdn.scimplify.com/products/certificates/68038c2113120a5667f0c6cc/COA.pdf"
+                }
+            ],
+            "synonyms": null,
+            "molecular_formula": "",
+            "iupac_name": "",
+            "properties": [
+                {
+                    "key": "Appearance",
+                    "value": "Blood red powder"
+                },
+                {
+                    "key": "Moisture",
+                    "value": "3.5"
+                },
+                {
+                    "key": "Crude protein",
+                    "value": "91.1 "
+                },
+                {
+                    "key": "Total plate count",
+                    "value": "225 "
+                },
+                {
+                    "key": "Odor ",
+                    "value": "Strong organic/proteinaceous odor"
+                },
+                {
+                    "key": "E.Coli",
+                    "value": "ABSENT"
+                }
+            ],
+            "safety_and_hazard": [
+                {
+                    "key": "GHS Classification",
+                    "value": "Not classified as hazardous\n\n"
+                },
+                {
+                    "key": "Precautionary Statements",
+                    "value": "P280: Use gloves and dust mask when applying\n\nP261: Avoid breathing dust\n\nP264: Wash after use\n\nP305+P351+P338: In case of eye exposure, rinse thoroughly\n\n"
+                }
+            ],
+            "pictogram": null,
+            "used_in_manufacturing": [],
+            "manufactured_form": [],
+            "applications": [
+                {
+                    "key": "Nitrogen Booster",
+                    "value": "Fast-acting organic nitrogen for leafy vegetables, cereals, and lawn crops.\n\n"
+                },
+                {
+                    "key": "Soil Conditioner",
+                    "value": "Enhances microbial activity and organic content in soil ecosystems.\n"
+                },
+                {
+                    "key": "Organic Fertilizer Mix",
+                    "value": "Used in blending with compost, potting soils, or biofertilizer carriers.\n"
+                },
+                {
+                    "key": "Compost Accelerator",
+                    "value": "Supplies nitrogen to accelerate carbon-heavy compost piles.\n\n"
+                },
+                {
+                    "key": "Integration",
+                    "value": "Greenhouse and protected cultivation systems"
+                },
+                {
+                    "key": "Supplier usage",
+                    "value": "Supplied in bulk to agricultural cooperatives and horticulture hubs\n\n"
+                }
+            ],
+            "storage": [
+                {
+                    "key": "Storage Condition",
+                    "value": "Cool, dry place, away from moisture and pests"
+                },
+                {
+                    "key": "Stacking",
+                    "value": "2–3 bags high on pallets"
+                },
+                {
+                    "key": "Shelf Life",
+                    "value": " 12 months (dry sealed conditions)"
+                },
+                {
+                    "key": "Storage formulation",
+                    "value": "Dried, sterilized animal blood in powder or granule form "
+                },
+                {
+                    "key": "Transport",
+                    "value": "Palletized, stretch-wrapped, containerized"
+                }
+            ],
+            "variants": [],
+            "is_variant": false,
+            "is_product": true,
+            "derived_from": [],
+            "active_in_catalog": true,
+            "is_combination_of_products": false,
+            "combination_product_base_compounds": [],
+            "canonical_smiles": "",
+            "inchi_key": "",
+            "inchi": "",
+            "is_exclusive": false,
+            "einecs_number": "",
+            "fema_number": "",
+            "shelf_life": "",
+            "odor_profile": null,
+            "manufacturers_certificates": [],
+            "uses": [
+                ""
+            ],
+            "end_use_api": [
+                ""
+            ],
+            "export_countries": [],
+            "product_sales_pitch": "",
+            "material_sold": "",
+            "analytical_report": null,
+            "three_batch_reports": null,
+            "purity_report": null,
+            "highlights": [
+                "High-Nitrogen Organic Fertilizer",
+                "Slow-release organic N source",
+                "Correction of nitrogen deficiency",
+                "Integration for protected cultivation system",
+                "Support early vegetative growth",
+                "pH Neutral to Slightly Acidic",
+                "Compliant:  FCO (India), OMRI / USDA-NOP, EU Fertilizer Regulation (2019/1009)"
+            ],
+            "mdl_number": "",
+            "unspsc_code": "",
+            "eclass": "",
+            "nacres": "",
+            "opinion": [],
+            "valid_product": false,
+            "faq": [
+                {
+                    "key": "What is the nitrogen percentage in blood meal?",
+                    "value": "Blood meal provides 12–15% nitrogen—making it one of the most concentrated organic nitrogen sources."
+                },
+                {
+                    "key": "How is it typically applied in the field?",
+                    "value": "Applied as a basal dose or side dressing; can be blended with compost or spread directly into soil."
+                },
+                {
+                    "key": "Is this product suitable for certified organic farming?",
+                    "value": "Yes, when sourced from approved slaughter facilities and with proper documentation (OMRI/USDA-NOP compliant)."
+                },
+                {
+                    "key": "Does blood meal have any effect on soil health?",
+                    "value": "Yes, it promotes microbial activity, supports vegetative growth, and improves soil fertility."
+                },
+                {
+                    "key": "Is it suitable for all crops?",
+                    "value": " Best for nitrogen-hungry crops like leafy vegetables, corn, rice, and turf; not ideal for fruiting crops at maturity stages."
+                },
+                {
+                    "key": "What is the shelf life and how should it be stored? ",
+                    "value": "Up to 12 months in dry, ventilated spaces. Seal bags tightly to prevent odor loss and pest attraction."
+                },
+                {
+                    "key": "What documentation is included with shipment? ",
+                    "value": "COA, MSDS, Phytosanitary certificate (if needed), and organic certification on request."
+                },
+                {
+                    "key": "Is blood meal soluble or usable in foliar sprays? ",
+                    "value": "No, it is not water-soluble and must be used as a soil amendment only."
+                },
+                {
+                    "key": "Can you export to organic-regulated markets?",
+                    "value": "Yes, with COO and process documentation."
+                },
+                {
+                    "key": "Who are the general beneficiaries? ",
+                    "value": "Supplied in bulk to agricultural cooperatives and horticulture hubs"
+                }
+            ],
+            "faq_description": "",
+            "available_as": null,
+            "slug_name": "blood-meal-supplement-agriculture-grade",
+            "best_selling": false,
+            "new_product": false,
+            "interlinks": [],
+            "reactions": []
+        },
+        {
+            "id": "680380662dec46c996bee663",
+            "created_at": "2025-04-19T10:52:22.167366",
+            "updated_at": "2025-04-19T11:09:27.085494",
+            "name": "Meat Bone Meal Supplement (Agriculture Grade)",
+            "pubchem_cid": "",
+            "hsn_no": "23011000",
+            "description": "Meat Bone Meal (MBM) is a nutrient-dense organic fertilizer derived from rendered animal bones and tissues. It is sterilized via heat and pressure and ground into a fine meal. Used primarily for phosphorus and calcium enrichment, it supports flowering, fruiting, and root development in soil health programs.",
+            "industries": [
+                "Agrochemicals"
+            ],
+            "categories": [
+                "Plant Health, Nutrients & Soil Management"
+            ],
+            "sub_categories": [],
+            "cas_number": "Natural blended fertilizer",
+            "product_images": [
+                "https://cdn.scimplify.com/products/images/680380662dec46c996bee663/b6158574-1efe-4d62-87b9-28b267a4ed03.png"
+            ],
+            "certificates": [
+                {
+                    "name": "COA",
+                    "issued_date": null,
+                    "url": "https://cdn.scimplify.com/products/certificates/680380662dec46c996bee663/COA.pdf"
+                }
+            ],
+            "synonyms": null,
+            "molecular_formula": "",
+            "iupac_name": "",
+            "properties": [
+                {
+                    "key": "Appearance",
+                    "value": "Brown Powder"
+                },
+                {
+                    "key": "Brown Powder",
+                    "value": "6.9"
+                },
+                {
+                    "key": "Protein",
+                    "value": "46.6"
+                },
+                {
+                    "key": "Nitrogen (N)",
+                    "value": "4–6%  "
+                },
+                {
+                    "key": "Phosphorus (P₂O₅)",
+                    "value": "12–15%  "
+                },
+                {
+                    "key": "Calcium (Ca)",
+                    "value": "15–25%"
+                },
+                {
+                    "key": "(Microbilogy)-Plate Count",
+                    "value": "85"
+                }
+            ],
+            "safety_and_hazard": [
+                {
+                    "key": "GHS Classification",
+                    "value": "Not classified as hazardous\n\n"
+                },
+                {
+                    "key": "Precautionary Statements",
+                    "value": "\nP280: Use gloves, mask, and goggles during application\n\nP261: Avoid inhalation of dust\n\nP264: Wash thoroughly after handling\n\nP305+P351+P338: In case of contact with eyes, rinse cautiously\n\n"
+                }
+            ],
+            "pictogram": null,
+            "used_in_manufacturing": [],
+            "manufactured_form": [],
+            "applications": [
+                {
+                    "key": "Soil Amendment",
+                    "value": "Supplies long-lasting phosphorus and calcium to support flowering, rooting, and fruit development.\n\n"
+                },
+                {
+                    "key": "Compost Enricher",
+                    "value": "Enhances microbial decomposition and nutrient retention in organic compost formulations.\n\n"
+                },
+                {
+                    "key": "Basal Dose Fertilizer",
+                    "value": "Applied before or at planting to improve nutrient balance and early plant establishment.\n\n"
+                },
+                {
+                    "key": "Organic Crop Support",
+                    "value": "Used in horticulture and agroforestry for phosphorus-deficient soils.\n\n"
+                },
+                {
+                    "key": "Target Usage",
+                    "value": "Widely in organic farming, greenhouse vegetable cultivation, and orchard systems\n"
+                }
+            ],
+            "storage": [
+                {
+                    "key": "Storage",
+                    "value": "Store in cool, shaded, dry areas"
+                },
+                {
+                    "key": "Shelf Life",
+                    "value": " 6–12 months (sealed)"
+                },
+                {
+                    "key": "Formulation",
+                    "value": "Rendered, defatted, steam-treated animal meal (bone + soft tissue)"
+                },
+                {
+                    "key": "Flexible Packaging",
+                    "value": "25 kg HDPE bags or 1000 kg jumbo sacks; inner liner available"
+                },
+                {
+                    "key": "Stacking",
+                    "value": "2 bags high (on pallets)"
+                },
+                {
+                    "key": "Transport",
+                    "value": "Palletized, stretch-wrapped, containerized"
+                }
+            ],
+            "variants": [],
+            "is_variant": false,
+            "is_product": true,
+            "derived_from": [],
+            "active_in_catalog": true,
+            "is_combination_of_products": false,
+            "combination_product_base_compounds": [],
+            "canonical_smiles": "",
+            "inchi_key": "",
+            "inchi": "",
+            "is_exclusive": false,
+            "einecs_number": "",
+            "fema_number": "",
+            "shelf_life": "",
+            "odor_profile": null,
+            "manufacturers_certificates": [],
+            "uses": [
+                ""
+            ],
+            "end_use_api": [
+                ""
+            ],
+            "export_countries": [],
+            "product_sales_pitch": "",
+            "material_sold": "",
+            "analytical_report": null,
+            "three_batch_reports": null,
+            "purity_report": null,
+            "highlights": [
+                "Organic Phosphorus-Rich Animal-Based Fertilizer",
+                "Slow-Release Nutrient Source",
+                "pH Buffering Capability",
+                "Calcium Enrichment",
+                "Minimal Leaching Risk",
+                "Sustainable on phosphorus input restricted zone",
+                "Compliant: FCO (India) , OMRI / USDA-NOP , EU Fertilizer Regulation (2019/1009)"
+            ],
+            "mdl_number": "",
+            "unspsc_code": "",
+            "eclass": "",
+            "nacres": "",
+            "opinion": [],
+            "valid_product": false,
+            "faq": [
+                {
+                    "key": "What is the typical nutrient breakdown in meat bone meal? ",
+                    "value": "It contains 4–6% nitrogen, 12–15% phosphorus (P₂O₅), and 15–25% calcium—ideal for flowering crops and fruiting trees."
+                },
+                {
+                    "key": "How is it different from plain bone meal? ",
+                    "value": "MBM includes both bone and soft tissue, making it richer in nitrogen and slightly faster acting."
+                },
+                {
+                    "key": "Can this product be used in certified organic farming? ",
+                    "value": "Yes, with appropriate documentation, MBM qualifies under USDA-NOP, OMRI, and EU organic frameworks."
+                },
+                {
+                    "key": "How should MBM be applied in the field? ",
+                    "value": "Applied at 200–500 kg/ha depending on soil test results, either as a basal fertilizer or mixed into compost."
+                },
+                {
+                    "key": "Is it compatible with microbial or biofertilizer blends? ",
+                    "value": "Yes, it pairs well with composts, manures, and microbial formulations without degrading activity. "
+                },
+                {
+                    "key": "What is the Lead Time?",
+                    "value": "2–4 weeks standard, depending on volume."
+                },
+                {
+                    "key": "What documents are provided? ",
+                    "value": "COA, MSDS, COO Organic Input Certificate (on request)."
+                },
+                {
+                    "key": "Is this product heat-treated or sterilized? ",
+                    "value": "Yes, it undergoes high-pressure sterilization to ensure biosecurity compliance."
+                }
+            ],
+            "faq_description": "",
+            "available_as": null,
+            "slug_name": "meat-bone-meal-supplement-agriculture-grade",
+            "best_selling": false,
+            "new_product": false,
+            "interlinks": [],
+            "reactions": []
+        },
+        {
+            "id": "68037856e601a5fc9663726c",
+            "created_at": "2025-04-19T10:17:58.287901",
+            "updated_at": "2025-04-19T10:39:50.695541",
+            "name": "Fish Meal Supplement (Agriculture Grade)",
+            "pubchem_cid": "",
+            "hsn_no": "23012000",
+            "description": "Fish Meal Supplement is a high-protein, nitrogen-rich organic input made from whole fish or fish trimmings. It is widely used as a soil amendment and base fertilizer to promote plant growth, improve soil microbiota, and supply slow-release nutrients in sustainable agriculture.",
+            "industries": [
+                "Agrochemicals"
+            ],
+            "categories": [
+                "Plant Health, Nutrients & Soil Management"
+            ],
+            "sub_categories": [],
+            "cas_number": "Natural blended material",
+            "product_images": [
+                "https://cdn.scimplify.com/products/images/68037856e601a5fc9663726c/097d609b-6bd2-424e-9429-514c484982bc.png"
+            ],
+            "certificates": [
+                {
+                    "name": "COA",
+                    "issued_date": null,
+                    "url": "https://cdn.scimplify.com/products/certificates/68037856e601a5fc9663726c/COA.pdf"
+                }
+            ],
+            "synonyms": null,
+            "molecular_formula": "",
+            "iupac_name": "",
+            "properties": [
+                {
+                    "key": "Appearance",
+                    "value": "Yellow Brown Powder"
+                },
+                {
+                    "key": "Moisture",
+                    "value": "8.4%"
+                },
+                {
+                    "key": "Protein (Nx6.25)",
+                    "value": "60.5%"
+                },
+                {
+                    "key": "Nitrogen (N)",
+                    "value": "8–10%  "
+                },
+                {
+                    "key": "Phosphorus (P₂O₅)",
+                    "value": " 4–6%  "
+                },
+                {
+                    "key": "Potassium (K₂O)",
+                    "value": " 0.5–1%"
+                }
+            ],
+            "safety_and_hazard": [
+                {
+                    "key": "GHS Classification",
+                    "value": " Not classified as hazardous under GHS\n\n"
+                },
+                {
+                    "key": "Precautionary Statements",
+                    "value": "\nP280: Use gloves and face mask when handling\n\nP261: Avoid breathing dust\n\nP264: Wash hands thoroughly after handling\n\nP305+P351+P338: In case of eye contact, rinse thoroughly with water"
+                }
+            ],
+            "pictogram": null,
+            "used_in_manufacturing": [],
+            "manufactured_form": [],
+            "applications": [
+                {
+                    "key": "Base Fertilizer",
+                    "value": "Applied before or during sowing to enrich soil with organic nitrogen and amino acids.\n\n"
+                },
+                {
+                    "key": "Soil Conditioner",
+                    "value": "Enhances microbial activity, soil texture, and humus development.\n\n"
+                },
+                {
+                    "key": "Crop Booster",
+                    "value": "Promotes early plant growth, flowering, and nitrogen uptake in vegetables, cereals, pulses, and horticultural crops.\n\n"
+                },
+                {
+                    "key": "Organic Systems",
+                    "value": "Used in organic farming as a sustainable replacement for synthetic nitrogen fertilizers.\n\n"
+                },
+                {
+                    "key": "Versatility",
+                    "value": "Applied in sustainable horticulture, greenhouse crops, and fruit tree farming"
+                },
+                {
+                    "key": "Farming Usage",
+                    "value": "high-nitrogen nutrition for conventional and organic"
+                }
+            ],
+            "storage": [
+                {
+                    "key": "Storage",
+                    "value": "Dry, ventilated warehouse; avoid direct sun and moisture"
+                },
+                {
+                    "key": "Shelf Life",
+                    "value": "6–12 months (dry storage)"
+                },
+                {
+                    "key": "Packaging",
+                    "value": "25 kg HDPE woven bags / 500–1000 kg jumbo bags"
+                },
+                {
+                    "key": "Flexible Packaging",
+                    "value": "25 kg to 1000 kg bags"
+                },
+                {
+                    "key": "Stacking",
+                    "value": "2 bags high on pallets"
+                }
+            ],
+            "variants": [],
+            "is_variant": false,
+            "is_product": true,
+            "derived_from": [],
+            "active_in_catalog": true,
+            "is_combination_of_products": false,
+            "combination_product_base_compounds": [],
+            "canonical_smiles": "",
+            "inchi_key": "",
+            "inchi": "",
+            "is_exclusive": false,
+            "einecs_number": "",
+            "fema_number": "",
+            "shelf_life": "",
+            "odor_profile": null,
+            "manufacturers_certificates": [],
+            "uses": [
+                ""
+            ],
+            "end_use_api": [
+                ""
+            ],
+            "export_countries": [],
+            "product_sales_pitch": "",
+            "material_sold": "",
+            "analytical_report": null,
+            "three_batch_reports": null,
+            "purity_report": null,
+            "highlights": [
+                "Organic Marine Protein Fertilizer",
+                "Granular fertilizer",
+                "Sustainable horticulture",
+                "Biofertilizer blend",
+                "Slow-Release Efficiency",
+                "Multi-Micronutrient Source",
+                "pH-Buffering",
+                "Improves Soil Texture",
+                "Compliant: FCO (India), OMRI / USDA-NOP, EU Fertilizer Reg.  (2019/1009)"
+            ],
+            "mdl_number": "",
+            "unspsc_code": "",
+            "eclass": "",
+            "nacres": "",
+            "opinion": [],
+            "valid_product": false,
+            "faq": [
+                {
+                    "key": "What is the protein and nitrogen content of fish meal for agri use? ",
+                    "value": "Protein content typically ranges from 55–65%, with nitrogen content of 8–10%, making it a strong organic nitrogen source."
+                },
+                {
+                    "key": "Is fish meal suitable for organic farming? ",
+                    "value": "Yes, when certified, it complies with OMRI, USDA-NOP, and EU organic input standards."
+                },
+                {
+                    "key": "How is fish meal applied in the field? ",
+                    "value": "Broadcast at 200–500 kg/ha or mixed with compost or soil amendments. Suitable for basal application or during transplanting."
+                },
+                {
+                    "key": "Does it have any odor or stability concerns? ",
+                    "value": "Has a strong fishy odor. Store in well-ventilated areas; dry and pest-protected packaging recommended."
+                },
+                {
+                    "key": "Is fish meal soluble or foliar-friendly? ",
+                    "value": "No, it is not water-soluble. It must be applied into soil—not recommended for foliar spray."
+                },
+                {
+                    "key": "What documents are provided with the shipment? ",
+                    "value": "COA, MSDS, COO, and Organic Certification (if applicable)."
+                },
+                {
+                    "key": "What is the typical packaging?",
+                    "value": "Supplied in 25 kg HDPE bags or 1000 kg jumbo sacks, often palletized and stretch-wrapped."
+                },
+                {
+                    "key": "Can this be exported to the EU or Middle East? ",
+                    "value": "Yes, provided with documentation for organic or non-organic routes, depending on buyer and country regulations."
+                }
+            ],
+            "faq_description": "",
+            "available_as": null,
+            "slug_name": "fish-meal-supplement-agriculture-grade",
+            "best_selling": false,
+            "new_product": false,
+            "interlinks": [],
+            "reactions": []
+        },
+        {
+            "id": "6800e9ab13120a5667f0c6ca",
+            "created_at": "2025-04-17T11:44:43.664722",
+            "updated_at": "2025-04-17T14:25:58.517269",
+            "name": "7,8-DIHYDRO-5H-CYCLOHEPTA[b]PYRIDINE-5,9(6H)-DIONE (Rimegepant)",
+            "pubchem_cid": "53485132",
+            "hsn_no": "29333999",
+            "description": "A key fused-ring heterocyclic compound, this intermediate is used in the synthesis of advanced CNS-targeting molecules and diversified heterocyclic scaffolds. Its dione structure enables downstream reactivity in pharmaceutical, agrochemical, and custom synthesis workflows.",
+            "industries": [
+                "Pharmaceutical"
+            ],
+            "categories": [
+                "Pharmaceutical Actives & Precursors"
+            ],
+            "sub_categories": [
+                "Intermediates & Precursors"
+            ],
+            "cas_number": "39713-40-1",
+            "product_images": [
+                "https://cdn.scimplify.com/products/images/6800e9ab13120a5667f0c6ca/122e542d-fa5b-4525-9b1d-7b938b65ec7b.png"
+            ],
+            "certificates": [
+                {
+                    "name": "COA",
+                    "issued_date": null,
+                    "url": "https://cdn.scimplify.com/products/certificates/6800e9ab13120a5667f0c6ca/COA.pdf"
+                }
+            ],
+            "synonyms": null,
+            "molecular_formula": "C10H9NO2",
+            "iupac_name": "7,8-dihydro-6H-cyclohepta[b]pyridine-5,9-dione OR 7,8-Dihydro-5H-cyclohepta[b]pyridine-5,9(6H)-dione",
+            "properties": [
+                {
+                    "key": "Description",
+                    "value": "Off white powder"
+                },
+                {
+                    "key": "Solubility",
+                    "value": "Soluble in Methanol"
+                },
+                {
+                    "key": "Loss on drying (% w/w)",
+                    "value": "0.56%"
+                },
+                {
+                    "key": "Purity by HPLC",
+                    "value": "98.52%"
+                }
+            ],
+            "safety_and_hazard": [
+                {
+                    "key": "GHS Classification",
+                    "value": "Not classified under standard hazard classes\n\n"
+                },
+                {
+                    "key": "Regulatory Note",
+                    "value": "For R&D or intermediate use only; not for direct therapeutic use\n\n"
+                },
+                {
+                    "key": "(P) Statements",
+                    "value": "P280: Wear protective gloves, clothing, and eye protection\n\nP305+P351+P338: If in eyes: Rinse cautiously with water for several minutes\n\nP261: Avoid breathing dust\n\nP264: Wash hands thoroughly after handling\n\n"
+                }
+            ],
+            "pictogram": null,
+            "used_in_manufacturing": [],
+            "manufactured_form": [],
+            "applications": [
+                {
+                    "key": "CNS Drug Synthesis",
+                    "value": "Serves as a key intermediate for neuroactive tricyclic frameworks.\n"
+                },
+                {
+                    "key": "Agrochemical Scaffolding",
+                    "value": "Utilized in fine-tuning of insecticides and herbicide backbones.\n\n"
+                },
+                {
+                    "key": "Custom Heterocyclic Libraries",
+                    "value": "Applied in medicinal chemistry programs requiring fused aromatic pyridines.\n\n"
+                },
+                {
+                    "key": "Analytical & SAR Studies",
+                    "value": "Used in structure-activity relationship mapping for ring-closed derivatives.\n\n"
+                }
+            ],
+            "storage": [
+                {
+                    "key": "Storage",
+                    "value": "Store in nitrogen-filled containers, <25°C, protected from light"
+                },
+                {
+                    "key": "Stacking",
+                    "value": "2 drums high for inert-packed units"
+                },
+                {
+                    "key": "Transport",
+                    "value": "Palletized, stretch-wrapped, containerized"
+                },
+                {
+                    "key": "Flexible Packaging",
+                    "value": "Amber glass bottles or foil pouches (10 g to 1 kg)"
+                }
+            ],
+            "variants": [],
+            "is_variant": false,
+            "is_product": true,
+            "derived_from": [],
+            "active_in_catalog": true,
+            "is_combination_of_products": false,
+            "combination_product_base_compounds": [],
+            "canonical_smiles": "",
+            "inchi_key": "INMIEUQKQXVBKR-UHFFFAOYSA-N",
+            "inchi": "1S/C10H9NO2/c12-8-4-1-5-9(13)10-7(8)3-2-6-11-10/h2-3,6H,1,4-5H2",
+            "is_exclusive": false,
+            "einecs_number": "",
+            "fema_number": "",
+            "shelf_life": "",
+            "odor_profile": null,
+            "manufacturers_certificates": [],
+            "uses": [
+                ""
+            ],
+            "end_use_api": [
+                ""
+            ],
+            "export_countries": [],
+            "product_sales_pitch": "",
+            "material_sold": "",
+            "analytical_report": null,
+            "three_batch_reports": null,
+            "purity_report": null,
+            "highlights": [
+                "Heterocyclic Building Blocks",
+                "CROs and CDMOs : Small-molecule pathway development",
+                "Pharma R&D Intermediate-Stage CNS compound",
+                "Pilot-to-commercial transition regulated synthesis",
+                "Versatile Scaffold : CNS and oncology pipelines",
+                "Substitution-Ready Core",
+                "Low Impurity Risk",
+                "Synthesis Hubs: India, China, Eastern Europe"
+            ],
+            "mdl_number": "",
+            "unspsc_code": "12161501 (Pharmaceutical intermediates)",
+            "eclass": "",
+            "nacres": "",
+            "opinion": [],
+            "valid_product": false,
+            "faq": [
+                {
+                    "key": "What role does this compound serve in synthesis? ",
+                    "value": "It’s a core intermediate in CNS, oncology, and anti-inflammatory drug scaffolds, primarily used for structure-building in tricyclic frameworks."
+                },
+                {
+                    "key": "What is the main compound name? ",
+                    "value": "5H,6H,7H,8H,9H-cyclohepta[b]pyridine-5,9-dione"
+                },
+                {
+                    "key": "What are the two main synonyms?",
+                    "value": "5,9(6H)-Dione, 7,8-dihydro-5H-cyclohepta[b]pyridine and Heterocyclic intermediate with fused pyridine scaffold"
+                },
+                {
+                    "key": "Is the material GMP-certified or research-only? ",
+                    "value": "It is typically supplied as a non-GMP intermediate for use in early-stage or pilot pharmaceutical programs."
+                },
+                {
+                    "key": "What documentation is available with each batch? ",
+                    "value": "COA, MSDS, and if required, elemental analysis or NMR spectrum can be provided."
+                },
+                {
+                    "key": "What solvents is this intermediate compatible with? ",
+                    "value": "Soluble in DMF, DMSO, and moderately in methanol or ethanol; minimal solubility in water."
+                },
+                {
+                    "key": "Can it be scaled up to multi-kg levels? ",
+                    "value": "Yes, with lead time of 2–4 weeks, quantities can range from 10 g lab scale to multi-kg under CRAMS/CDMO engagements."
+                },
+                {
+                    "key": "What is your assay? ",
+                    "value": "Typically ≥ 98% by HPLC "
+                },
+                {
+                    "key": "Do you offer regulatory documentation? ",
+                    "value": "COA and MSDS standard; further docs available on request"
+                },
+                {
+                    "key": "What are your payment terms? ",
+                    "value": "100% advance for lab quantities; negotiable for scale-up batches"
+                },
+                {
+                    "key": "Can you export to regulated markets? ",
+                    "value": "Yes, with proper non-GMP classification and shipment docs"
+                }
+            ],
+            "faq_description": "",
+            "available_as": null,
+            "slug_name": "7-8-dihydro-5h-cyclohepta-b-pyridine-5-9-6h-dione-rimegepant",
+            "best_selling": false,
+            "new_product": false,
+            "interlinks": [],
+            "reactions": []
+        },
+        {
+            "id": "6800a4242dec46c996bee65e",
+            "created_at": "2025-04-17T06:48:04.887766",
+            "updated_at": "2025-04-17T08:56:27.112187",
+            "name": "Aseptic Pink Guava Pulp",
+            "pubchem_cid": "",
+            "hsn_no": "20089990",
+            "description": "Aseptic Pink Guava Pulp is a tropical fruit puree extracted from ripened pink guavas, processed under sterile conditions and sealed in multilayer aseptic packaging. Known for its rich pink color and aromatic, sweet-tart profile, it is ideal for beverages, jams, and nutraceuticals.",
+            "industries": [
+                "Food & Nutrition"
+            ],
+            "categories": [
+                "Food Ingredients"
+            ],
+            "sub_categories": [
+                "Fruit Products & Extracts"
+            ],
+            "cas_number": "Natural Product",
+            "product_images": [
+                "https://cdn.scimplify.com/products/images/6800a4242dec46c996bee65e/75da9d8f-a0a9-49cd-9d35-d2cdebd46340.png"
+            ],
+            "certificates": [
+                {
+                    "name": "COA",
+                    "issued_date": null,
+                    "url": "https://cdn.scimplify.com/products/certificates/6800a4242dec46c996bee65e/COA.pdf"
+                }
+            ],
+            "synonyms": null,
+            "molecular_formula": "",
+            "iupac_name": "Psidium guajava (Pink variety)",
+            "properties": [
+                {
+                    "key": "Brix at 20°C (Refractometric)",
+                    "value": "9.22 - 9.95"
+                },
+                {
+                    "key": "pH as natural ",
+                    "value": "3.90 - 4.10"
+                },
+                {
+                    "key": "Colour",
+                    "value": "Deep Pinkish"
+                },
+                {
+                    "key": "Flavor",
+                    "value": "Characteristics of Typical Ripe Pink Guava"
+                },
+                {
+                    "key": "Solubility",
+                    "value": "Dispersible in aqueous and blended systems"
+                },
+                {
+                    "key": "Taste",
+                    "value": "Characteristics of Typical Ripe Pink Guava, Free from Any Fermentation"
+                },
+                {
+                    "key": "Appearance",
+                    "value": "Homogenous, No Foreign Matter"
+                }
+            ],
+            "safety_and_hazard": [
+                {
+                    "key": "GHS Classification",
+                    "value": "Non-hazardous\n\n"
+                },
+                {
+                    "key": "Additives",
+                    "value": "None\n\n"
+                },
+                {
+                    "key": "Microbial Load",
+                    "value": "Free from E. coli, Salmonella, Listeria\n\n"
+                },
+                {
+                    "key": "Heavy Metals",
+                    "value": "Within FAO/WHO limits\n\n"
+                },
+                {
+                    "key": "Allergen Status",
+                    "value": "Free from all major allergens\n\n"
+                }
+            ],
+            "pictogram": null,
+            "used_in_manufacturing": [],
+            "manufactured_form": [],
+            "applications": [
+                {
+                    "key": "Juices & Smoothies",
+                    "value": "Core ingredient in tropical blends and ready-to-drink beverages\n"
+                },
+                {
+                    "key": "Jams & Jellies",
+                    "value": "Used for natural color and aroma\n"
+                },
+                {
+                    "key": "Ice Creams & Yogurts",
+                    "value": "Flavoring base in frozen desserts and dairy products\n"
+                },
+                {
+                    "key": "Baby Foods",
+                    "value": "Common in Stage 1 and Stage 2 purée blends\n\n\n"
+                },
+                {
+                    "key": "Nutraceuticals",
+                    "value": "Used in vitamin-rich beverages and antioxidant mixes\n"
+                }
+            ],
+            "storage": [
+                {
+                    "key": "Packaging",
+                    "value": "215–220 kg aseptic bag-in-drum / 20 kg bag-in-box, multilayer aseptic film"
+                },
+                {
+                    "key": "Shelf Life",
+                    "value": "18–24 months unopened"
+                },
+                {
+                    "key": "Storage",
+                    "value": "Cool, dry, shaded warehouse; avoid direct heat"
+                },
+                {
+                    "key": "Stacking",
+                    "value": "2 drums high (palletized)"
+                },
+                {
+                    "key": "Transport",
+                    "value": "Palletized, stretch-wrapped, containerized"
+                }
+            ],
+            "variants": [],
+            "is_variant": false,
+            "is_product": true,
+            "derived_from": [],
+            "active_in_catalog": true,
+            "is_combination_of_products": false,
+            "combination_product_base_compounds": [],
+            "canonical_smiles": "",
+            "inchi_key": "",
+            "inchi": "",
+            "is_exclusive": false,
+            "einecs_number": "",
+            "fema_number": "",
+            "shelf_life": "",
+            "odor_profile": null,
+            "manufacturers_certificates": [],
+            "uses": [
+                ""
+            ],
+            "end_use_api": [
+                ""
+            ],
+            "export_countries": [],
+            "product_sales_pitch": "",
+            "material_sold": "",
+            "analytical_report": null,
+            "three_batch_reports": null,
+            "purity_report": null,
+            "highlights": [
+                "Brix Level: 9–10° (natural)",
+                "Certifications: FSSAI, ISO 22000, HACCP, Halal, Kosher",
+                "Manufacturing Hubs: India, Brazil, Mexico",
+                "End usage : Baby Food, Frozen Dessert and Yogurt Brands",
+                "Tropical base : RTD juices, mocktails, fruit nectar",
+                "Color Stability: UHT and mild thermal processing",
+                "Natural Nutrient Profile",
+                "Clean Label Compliance",
+                "Low Allergen Risk",
+                "100% Pink Guava, Aseptic Packed"
+            ],
+            "mdl_number": "",
+            "unspsc_code": "",
+            "eclass": "",
+            "nacres": "",
+            "opinion": [],
+            "valid_product": false,
+            "faq": [
+                {
+                    "key": "What is the Brix specification for this product? ",
+                    "value": "The natural Brix ranges from 8–10°, offering balanced sweetness and viscosity ideal for beverage and dairy applications."
+                },
+                {
+                    "key": "Can the product be used in baby food and nutraceutical drinks? ",
+                    "value": "Yes, it is frequently used in infant nutrition and wellness drinks due to its smooth consistency, vitamin C content, and seedless finish."
+                },
+                {
+                    "key": "Is the pulp 100% natural and free from additives? ",
+                    "value": "Absolutely. The product is aseptically packed with no added sugars, acids, or preservatives, supporting clean-label claims globally."
+                },
+                {
+                    "key": "Does this pulp perform well under thermal processing? ",
+                    "value": "Yes, it's stable under UHT, hot-fill, and mild retort conditions, making it ideal for both cold and shelf-stable applications."
+                },
+                {
+                    "key": "What packaging formats are available for commercial buyers? ",
+                    "value": "Options include 220L aseptic drums, 1000L totes, and 20–25L bag-in-box units, with multilayer film to ensure sterility."
+                },
+                {
+                    "key": "What are the documentations?",
+                    "value": "Documentation: Phytosanitary, lab reports, COO, and traceability available"
+                },
+                {
+                    "key": "What is your assay? ",
+                    "value": "Brix 9–10° (natural, unadjusted)"
+                },
+                {
+                    "key": "What is the packaging? ",
+                    "value": "220L drum / 1000L tote / 20L bag-in-box"
+                },
+                {
+                    "key": "Do you offer organic certified? ",
+                    "value": "Yes, on MOQ basis  "
+                },
+                {
+                    "key": "What are your payment terms?",
+                    "value": " Standard 30–50% advance, balance on dispatch  "
+                },
+                {
+                    "key": "Is this pulp preservative-free? ",
+                    "value": "Yes, 100% guava solids, aseptically packed"
+                },
+                {
+                    "key": "Is it heat-stable? ",
+                    "value": "Yes, suitable for cooking and thermal processing"
+                },
+                {
+                    "key": "Does it contain allergens? ",
+                    "value": "No major allergens"
+                },
+                {
+                    "key": "Can you ship to the Middle East or EU? ",
+                    "value": "Yes, with full documentation including phytosanitary, pesticide residue, and COO"
+                }
+            ],
+            "faq_description": "",
+            "available_as": null,
+            "slug_name": "aseptic-pink-guava-pulp",
+            "best_selling": false,
+            "new_product": false,
+            "interlinks": [],
+            "reactions": []
+        },
+        {
+            "id": "67fd09aee601a5fc96637232",
+            "created_at": "2025-04-14T13:12:14.975877",
+            "updated_at": "2025-04-14T13:23:32.157686",
+            "name": "Desvenlafaxine Succinate",
+            "pubchem_cid": "125017",
+            "hsn_no": "",
+            "description": "Desvenlafaxine Succinate is a serotonin-norepinephrine reuptake inhibitor (SNRI) antidepressant used to treat major depressive disorder (MDD) in adults. It is the active metabolite of venlafaxine, another antidepressant, and works by increasing the levels of serotonin and norepinephrine in the brain, which helps regulate mood. It is a metabolite of the drug venlafaxine. It has a role as a marine xenobiotic metabolite, a drug metabolite and an antidepressant.",
+            "industries": [],
+            "categories": [],
+            "sub_categories": [],
+            "cas_number": "93413-62-8",
+            "product_images": [
+                "https://cdn.scimplify.com/products/images/67fd09aee601a5fc96637232/8f2cdf19-d175-404f-90e7-42fdd135a44a.png"
+            ],
+            "certificates": [],
+            "synonyms": null,
+            "molecular_formula": "C16H25NO2",
+            "iupac_name": "RS)-4-[2-Dimethylamino-1-(1-hydroxycyclohexyl)ethyl]phenol",
+            "properties": [
+                {
+                    "key": "Molecular Weight",
+                    "value": "275.38 g/mol"
+                },
+                {
+                    "key": "Solubility in Water",
+                    "value": "Soluble in water"
+                },
+                {
+                    "key": "Solubility in Organic Solvents",
+                    "value": "Soluble in methanol, ethanol"
+                },
+                {
+                    "key": "Appearance",
+                    "value": "White to off-white crystalline powder"
+                },
+                {
+                    "key": "Odor",
+                    "value": "Odorless"
+                },
+                {
+                    "key": "Shelf Life",
+                    "value": "2 years"
+                }
+            ],
+            "safety_and_hazard": [
+                {
+                    "key": "Hazard Statements",
+                    "value": "H315: Causes skin irritation.\n\nH319: Causes serious eye irritation.\n\nH335: May cause respiratory irritation.\n\n"
+                },
+                {
+                    "key": "Precautionary Statements",
+                    "value": "P261: Avoid breathing dust/fume/gas/mist/vapors/spray.\n\nP264: Wash hands thoroughly after handling.\n\nP271: Use only outdoors or in a well-ventilated area.\n\nP280: Wear protective gloves/eye protection/face protection.\n\nP302+P352: IF ON SKIN: Wash with plenty of soap and water.\n\nP304+P340: IF INHALED: Remove person to fresh air and keep comfortable for breathing.\n\nP305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.\n\nP312: Call a POISON CENTER or doctor if you feel unwell.\n\nP321: Specific treatment (see on this label).\n\nP332+P313: If skin irritation occurs: Get medical advice/attention.\n\nP337+P313: If eye irritation persists: Get medical advice/attention.\n\nP362: Take off contaminated clothing and wash before reuse.\n\nP403+P233: Store in a well-ventilated place. Keep container tightly closed.\n\nP405: Store locked up.\n\nP501: Dispose of contents/container in accordance with local/regional/national/international regulations.\n\n"
+                }
+            ],
+            "pictogram": null,
+            "used_in_manufacturing": [],
+            "manufactured_form": [],
+            "applications": [
+                {
+                    "key": "Major Depressive Disorder (MDD)",
+                    "value": "Desvenlafaxine Succinate is prescribed for the treatment of MDD in adults. It helps alleviate symptoms such as persistent feelings of sadness, loss of interest in daily activities, and fatigue.\n\n"
+                },
+                {
+                    "key": "End Use Pharmaceutical Formulations",
+                    "value": "Incorporated into oral dosage forms, specifically extended-release tablets, to ensure consistent delivery of the medication over time. Common strengths include 25 mg, 50 mg, and 100 mg tablets.\n\n"
+                }
+            ],
+            "storage": [
+                {
+                    "key": "Storage Conditions",
+                    "value": "Store in a cool, dry place, away from incompatible substances. Keep container tightly closed when not in use."
+                },
+                {
+                    "key": "Packaging Options",
+                    "value": "Available in various sizes, including 25 mg, 50 mg, and 100 mg vials, suitable for both research and pharmaceutical applications."
+                }
+            ],
+            "variants": [],
+            "is_variant": false,
+            "is_product": true,
+            "derived_from": [],
+            "active_in_catalog": true,
+            "is_combination_of_products": false,
+            "combination_product_base_compounds": [],
+            "canonical_smiles": "OC2(C(c1ccc(O)cc1)CN(C)C)CCCCC2",
+            "inchi_key": "KYYIDSXMWOZKMP-UHFFFAOYSA-N",
+            "inchi": "InChI=1S/C16H25NO2/c1-17(2)12-15(13-6-8-14(18)9-7-13)16(19)10-4-3-5-11-16/h6-9,15,18-19H,3-5,10-12H2,1-2H3",
+            "is_exclusive": false,
+            "einecs_number": "",
+            "fema_number": "",
+            "shelf_life": "",
+            "odor_profile": null,
+            "manufacturers_certificates": [],
+            "uses": [
+                ""
+            ],
+            "end_use_api": [
+                ""
+            ],
+            "export_countries": [],
+            "product_sales_pitch": "",
+            "material_sold": "",
+            "analytical_report": null,
+            "three_batch_reports": null,
+            "purity_report": null,
+            "highlights": [
+                "THERAPEUTIC CATEGORY : Antidepressant",
+                "(FDA) Approved for major depressive disorder in adults",
+                "EU approved in Spain (2012) and Germany (2022)",
+                "Extended-Release Formulation",
+                "Minimal CYP450 Interaction",
+                "UNII Code: NG99554ANW",
+                "CHEMBL1118"
+            ],
+            "mdl_number": "MFCD00871934",
+            "unspsc_code": "",
+            "eclass": "",
+            "nacres": "",
+            "opinion": [],
+            "valid_product": false,
+            "faq": [
+                {
+                    "key": "What is Desvenlafaxine Succinate used for?",
+                    "value": "Desvenlafaxine Succinate is primarily used to treat major depressive disorder (MDD) in adults by increasing the levels of serotonin and norepinephrine in the brain, which helps regulate mood."
+                },
+                {
+                    "key": "How should Desvenlafaxine Succinate be taken?",
+                    "value": "It is typically taken once daily, with or without food. The tablets should be swallowed whole and not divided, crushed, chewed, or dissolved."
+                },
+                {
+                    "key": "Are there any serious side effects associated with Desvenlafaxine Succinate?",
+                    "value": "Common side effects include nausea, dizziness, and dry mouth. Serious side effects may include increased blood pressure, suicidal thoughts, and serotonin syndrome. Always consult your healthcare provider if you experience any unusual symptoms. Sexual dysfunction: Including decreased libido and difficulty achieving orgasm."
+                },
+                {
+                    "key": "What is the mechanism of action of Desvenlafaxine Succinate?",
+                    "value": "Desvenlafaxine Succinate is a serotonin-norepinephrine reuptake inhibitor (SNRI) that works by inhibiting the reuptake of serotonin and norepinephrine in the brain, thus increasing their concentrations and helping to regulate mood."
+                },
+                {
+                    "key": "What are the key regulatory requirements for Desvenlafaxine Succinate?",
+                    "value": "Desvenlafaxine Succinate is approved by regulatory bodies such as the FDA for major depressive disorder in adults. It complies with cGMP standards for pharmaceutical manufacturing and is supported by DMF submissions for global markets."
+                }
+            ],
+            "faq_description": "",
+            "available_as": null,
+            "slug_name": "desvenlafaxine-succinate",
+            "best_selling": false,
+            "new_product": false,
+            "interlinks": [],
+            "reactions": []
+        },
+        {
+            "id": "67fbba24e601a5fc96637231",
+            "created_at": "2025-04-13T13:20:36.873253",
+            "updated_at": "2025-04-14T13:20:45.486321",
+            "name": "Fosfomycin Trometamol",
+            "pubchem_cid": "10199068",
+            "hsn_no": "",
+            "description": "Fosfomycin Trometamol is a broad-spectrum antibiotic used primarily in the treatment of urinary tract infections (UTIs). It functions by inhibiting bacterial cell wall synthesis, leading to cell lysis and death. The trometamol (tris(hydroxymethyl)aminomethane) salt form enhances its solubility and absorption when administered orally.",
+            "industries": [
+                "Pharmaceutical"
+            ],
+            "categories": [
+                "Pharmaceutical Actives & Precursors"
+            ],
+            "sub_categories": [
+                "Active Pharmaceutical Ingredients (APIs)"
+            ],
+            "cas_number": "78964-85-9",
+            "product_images": [
+                "https://cdn.scimplify.com/products/images/67fbba24e601a5fc96637231/e640731f-3514-493d-a500-a3c919b3f2e6.png"
+            ],
+            "certificates": [],
+            "synonyms": null,
+            "molecular_formula": "C7H18NO7P",
+            "iupac_name": "2-amino-2-(hydroxymethyl)propane-1,3-diol;[(2R,3S)-3-methyloxiran-2-yl]phosphonic acid",
+            "properties": [
+                {
+                    "key": "Molecular Weight",
+                    "value": "259.19 g/mol"
+                },
+                {
+                    "key": "Solubility in Water",
+                    "value": "Soluble in water"
+                },
+                {
+                    "key": "Solubility in Organic Solvents",
+                    "value": " Soluble in methanol and ethanol"
+                },
+                {
+                    "key": "Appearance",
+                    "value": "Colorless to pale yellow solution"
+                },
+                {
+                    "key": "Shelf life",
+                    "value": "2 years"
+                }
+            ],
+            "safety_and_hazard": [
+                {
+                    "key": "(H) Statements",
+                    "value": "H315: Causes skin irritation.\nH319: Causes serious eye irritation.\nH335: May cause respiratory irritation.\n"
+                },
+                {
+                    "key": "(P) Statements",
+                    "value": "P261: Avoid breathing dust/fume/gas/mist/vapors/spray.\n\nP264: Wash hands thoroughly after handling.\n\nP271: Use only outdoors or in a well-ventilated area.\n\nP280: Wear protective gloves/eye protection/face protection.\n\nP302+P352: IF ON SKIN: Wash with plenty of soap and water.\n\nP304+P340: IF INHALED: Remove person to fresh air and keep comfortable for breathing.\n\nP305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.\n\nP312: Call a POISON CENTER or doctor if you feel unwell.\n\nP321: Specific treatment (see on this label).\n\nP332+P313: If skin irritation occurs: Get medical advice/attention.\n\nP337+P313: If eye irritation persists: Get medical advice/attention.\n\nP362: Take off contaminated clothing and wash before reuse.\n\nP403+P233: Store in a well-ventilated place. Keep container tightly closed.\n\nP405: Store locked up.\n\nP501: Dispose of contents/container in accordance with local/regional/national/international regulations."
+                }
+            ],
+            "pictogram": null,
+            "used_in_manufacturing": [],
+            "manufactured_form": [],
+            "applications": [
+                {
+                    "key": "Urinary Tract Infection Treatment",
+                    "value": "Fosfomycin Trometamol is commonly prescribed for the treatment of uncomplicated UTIs, offering a single-dose therapy option due to its efficacy and favorable pharmacokinetic properties. Active against a wide range of Gram-positive and Gram-negative bacteria.\n\n\n"
+                }
+            ],
+            "storage": [
+                {
+                    "key": "Storage Conditions",
+                    "value": "Store in a cool, dry place, away from incompatible substances. Keep container tightly closed when not in use."
+                },
+                {
+                    "key": "Packaging Options",
+                    "value": "Available in various sizes, including 25 mg, 50 mg, and 100 mg vials, suitable for both research and pharmaceutical applications."
+                }
+            ],
+            "variants": [],
+            "is_variant": false,
+            "is_product": true,
+            "derived_from": [],
+            "active_in_catalog": true,
+            "is_combination_of_products": false,
+            "combination_product_base_compounds": [],
+            "canonical_smiles": "C[C@H]1[C@H](O1)P(=O)(O)O.C(C(CO)(CO)N)O",
+            "inchi_key": "QZJIMDIBFFHQDW-LMLSDSMGSA-N",
+            "inchi": "1S/C4H11NO3.C3H7O4P/c5-4(1-6,2-7)3-8;1-2-3(7-2)8(4,5)6/h6-8H,1-3,5H2;2-3H,1H3,(H2,4,5,6)/t;2-,3+/m.0/s1",
+            "is_exclusive": false,
+            "einecs_number": "",
+            "fema_number": "",
+            "shelf_life": "",
+            "odor_profile": null,
+            "manufacturers_certificates": [],
+            "uses": [
+                ""
+            ],
+            "end_use_api": [
+                ""
+            ],
+            "export_countries": [],
+            "product_sales_pitch": "",
+            "material_sold": "",
+            "analytical_report": null,
+            "three_batch_reports": null,
+            "purity_report": null,
+            "highlights": [
+                "Single-Dose Therapy",
+                "Broad-Spectrum Activity",
+                "Single-dose regimen",
+                "Active against : Gram-positive and Gram-negative bacteria",
+                "(FDA) regulated for pharmaceutical applications",
+                "EU complied for antibiotic agents"
+            ],
+            "mdl_number": "",
+            "unspsc_code": "",
+            "eclass": "",
+            "nacres": "",
+            "opinion": [],
+            "valid_product": false,
+            "faq": [
+                {
+                    "key": "What is the recommended dosage for Fosfomycin Trometamol in treating urinary tract infections?",
+                    "value": "The typical dosage for Fosfomycin Trometamol in treating uncomplicated urinary tract infections (UTIs) in adults is 3g as a single dose. However, the exact dosage may vary based on the patient's medical history and the severity of the infection."
+                },
+                {
+                    "key": "How does Fosfomycin work in the treatment of UTIs?",
+                    "value": "Fosfomycin inhibits bacterial cell wall synthesis by blocking the enzyme MurA, which is essential for the formation of the bacterial cell wall. This results in bacterial lysis and effectively treats UTIs caused by susceptible organisms."
+                },
+                {
+                    "key": "Can Fosfomycin Trometamol be used in combination with other antibiotics for treating resistant UTIs?",
+                    "value": "Yes, Fosfomycin Trometamol is often used in combination with other antibiotics for treating multi-drug resistant urinary tract infections. It is particularly effective against Gram-negative bacteria, including E. coli, one of the most common pathogens in UTIs."
+                },
+                {
+                    "key": "What are the storage requirements for Fosfomycin Trometamol?",
+                    "value": "Fosfomycin Trometamol should be stored in a cool, dry place at temperatures below 30°C (86°F). The product should be kept in its original packaging to protect it from moisture and degradation."
+                },
+                {
+                    "key": "Is Fosfomycin Trometamol safe for individuals with kidney disease?",
+                    "value": "People with kidney disease should consult a healthcare provider before using Fosfomycin Trometamol, as dosage adjustments may be necessary based on the severity of kidney dysfunction."
+                },
+                {
+                    "key": "How long does it take for Fosfomycin to work in treating a UTI?",
+                    "value": "Many patients experience relief from symptoms of uncomplicated UTIs within 48 hours of taking Fosfomycin Trometamol. However, it is important to complete the prescribed course as directed by the healthcare provider to ensure the infection is fully cleared."
+                },
+                {
+                    "key": "What are the side effects of Fosfomycin Trometamol?",
+                    "value": "Common side effects of Fosfomycin Trometamol include diarrhea, headache, and nausea. Serious side effects are rare but can include allergic reactions and gastrointestinal issues. Always follow the prescribed dosage and consult your doctor if you experience any unusual symptoms."
+                },
+                {
+                    "key": "Can Fosfomycin be taken by pregnant women?",
+                    "value": "Pregnant women should consult their healthcare provider before taking Fosfomycin Trometamol. It is typically considered safe during pregnancy but should only be used if the potential benefits outweigh the risks."
+                }
+            ],
+            "faq_description": "",
+            "available_as": null,
+            "slug_name": "fosfomycin-trometamol",
+            "best_selling": false,
+            "new_product": false,
+            "interlinks": [],
+            "reactions": []
+        }
+    ]
+}
