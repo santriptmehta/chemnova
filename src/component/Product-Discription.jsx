@@ -558,7 +558,6 @@ export default function ProductDescription({ product, onBack }) {
             {[
               { id: "description", label: "Description" },
               { id: "properties", label: "Properties" },
-              { id: "applications", label: "Applications" },
               { id: "safety", label: "Safety & Handling" },
               { id: "industries", label: "Industries" },
             ].map((tab) => (

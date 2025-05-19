@@ -118,7 +118,6 @@ export default function NavBar() {
                     </div>
                     <div className="flex-auto">
                       <div className="block font-semibold text-gray-900">{item.name}</div>
-                      <p className="mt-1 text-gray-600">{item.description}</p>
                     </div>
                   </Link>
                 ))}

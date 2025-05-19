@@ -10,7 +10,7 @@ import FoodAndFeedData from "../data/Transformed_FoodFeedAddatives.json"
 import PharmIntermediates from "../data/Pharm_Intermediates.json"
 import Beauty from "../data/beauty.json"
 import OtherTradingChemical from "../data/other_Trading_Chemicals.json"
-
+import ConstructionChemical from "../data/Construction_Chemical.json"
 export default function ProductListing() {
   return (
     <ProductProvider>
@@ -56,7 +56,10 @@ function ProductListingContent() {
     },
     "Other Trading Chemicals" : {
       data : OtherTradingChemical
-    }
+    },
+    "Construction Chemicals" :{
+      data : ConstructionChemical
+    },
     // Add other data sources here as needed
   }
 
