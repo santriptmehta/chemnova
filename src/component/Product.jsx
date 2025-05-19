@@ -8,6 +8,8 @@ import { ProductProvider, useProductContext } from "./product-context"
 import IndustrialData from "../data/Transformed_IndustrialChemicals.json"
 import FoodAndFeedData from "../data/Transformed_FoodFeedAddatives.json"
 import PharmIntermediates from "../data/Pharm_Intermediates.json"
+import Beauty from "../data/beauty.json"
+import OtherTradingChemical from "../data/other_Trading_Chemicals.json"
 
 export default function ProductListing() {
   return (
@@ -49,6 +51,12 @@ function ProductListingContent() {
     "Pharm and Intermediates": {
       data: PharmIntermediates,
     },
+    "Beauty and Personal Care" : {
+      data : Beauty,
+    },
+    "Other Trading Chemicals" : {
+      data : OtherTradingChemical
+    }
     // Add other data sources here as needed
   }
 
