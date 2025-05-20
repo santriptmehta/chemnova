@@ -11,6 +11,10 @@ import PharmIntermediates from "../data/Pharm_Intermediates.json"
 import Beauty from "../data/beauty.json"
 import OtherTradingChemical from "../data/other_Trading_Chemicals.json"
 import ConstructionChemical from "../data/Construction_Chemical.json"
+import AdhesiveMaterial from "../data/adhesive_material.json"
+import benzoic_Acid_De from "../data/benzoic_Acid_Derivatives.json"
+import Inorganic_Raw_Material from "../data/Inorganic_Raw_Materials.json"
+
 export default function ProductListing() {
   return (
     <ProductProvider>
@@ -60,6 +64,15 @@ function ProductListingContent() {
     "Construction Chemicals" :{
       data : ConstructionChemical
     },
+    "Adhesive Material":{
+      data : AdhesiveMaterial
+    },
+    "Benzoic Acid Derivatives":{
+      data : benzoic_Acid_De
+    },
+    "Inorganic Raw Materials":{
+      data : Inorganic_Raw_Material
+    }
     // Add other data sources here as needed
   }
 
