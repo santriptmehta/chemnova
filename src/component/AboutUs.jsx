@@ -222,16 +222,7 @@ export default function AboutUs() {
             </motion.h2>
             <div className="mx-auto max-w-7xl text-center">
               <motion.p className="mt-8 text-lg font-medium text-gray-300 sm:text-xl leading-relaxed" variants={fadeIn}>
-                At Chemnovaa Solution Private Limited, we are not just a chemical company — we are a powerhouse of
-                innovation, precision, and reliability. With a robust presence in trading, distribution, and
-                manufacturing, we deliver cutting-edge chemical solutions that power progress across multiple
-                industries. Our extensive product portfolio is a testament to our commitment to excellence, offering
-                unmatched versatility, consistency, and performance. Through a holistic, client-centric approach, we
-                provide tailor-made formulations, seamless logistics, and rigorous quality assurance, ensuring that
-                every solution exceeds expectations. Fueled by a relentless drive for technological advancement,
-                regulatory mastery, and sustainable impact, we are constantly redefining industry standards. At the
-                heart of Chemnovaa lies a bold vision — to be the catalyst of success for our partners by delivering
-                nothing short of extraordinary quality, unwavering innovation, and exceptional customer satisfaction.
+                Chemnovaa Solution is a dynamic and forward-thinking chemical company, driven by a passion for innovation, quality, and customer success. With a strong foothold in trading, distribution, and manufacturing, we specialize in delivering versatile, high-performance chemical solutions tailored to diverse industrial needs. Backed by a team of experienced professionals, cutting-edge R&D, and a commitment to sustainability, we prioritize excellence at every stage — from sourcing and formulation to logistics and compliance. At Chemnovaa, we don't just meet expectations; we exceed them by building trusted partnerships, embracing continuous improvement, and striving to be a catalyst for progress in every market we serve. Our growing portfolio reflects our adaptability and responsiveness to industry demands, while our client-first approach ensures personalized support and reliable delivery. As we continue to evolve, we remain grounded in our core values — integrity, innovation, and impact — to help shape a safer, more efficient, and sustainable future in chemicals.
               </motion.p>
             </div>
           </div>

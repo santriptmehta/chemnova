@@ -1,0 +1,122 @@
+[
+  {
+    "name": "1,2-Dimethoxyethane (EDM)",
+    "cas_no": "110-71-4",
+    "cins_no": "",
+    "molecular_formula": "C4H10O2",
+    "discription": "1,2-Dimethoxyethane, also known as Ethylene Glycol Dimethyl Ether, Monoglyme, or DME, is a polar aprotic solvent. It is a colorless liquid with a slight ether odor, often used in organometallic chemistry and as a solvent for electrolytes.",
+    "typical_properties": "Formula Weight: 90.121, Flash Point: -2°C, Boiling point: 85°C, Density (20°C): 0.867 g/cm³, Refractive Index (25°C): 1.379. Physical Properties: Colorless liquid, with a slight ether odor.",
+    "packing": "180 kg",
+    "food_idustry": "",
+    "pharmaceutical_industry": "Used as a reaction solvent in pharmaceutical synthesis, particularly for reactions involving organometallic reagents (e.g., Grignard reactions, lithium aluminum hydride reductions) and as a solvent for electrolytes in lithium batteries used in some medical devices.",
+    "other_industries": "Solvent for organometallic reactions, electrolytes in batteries, polymer synthesis, industrial solvent for resins and adhesives."
+  },
+  {
+    "name": "Bis(2-methoxy ethyl)ether (DEDM)",
+    "cas_no": "111-96-6",
+    "cins_no": "",
+    "molecular_formula": "C6H14O3",
+    "discription": "Bis(2-methoxyethyl) ether, also known as Diethylene Glycol Dimethyl Ether or Diglyme, is a high-boiling, polar aprotic solvent with excellent solvating power for a variety of organic and inorganic compounds.",
+    "typical_properties": "Formula Weight: 134.174, Flash Point: 57°C, Boiling point: 162°C, Density (20°C): 0.943 g/cm³, Refractive Index (25°C): 1.408. Physical Properties: Colorlesstransparentliquid, slightly withanetherodor.",
+    "packing": "200 kg",
+    "food_idustry": "",
+    "pharmaceutical_industry": "Used as a reaction solvent in pharmaceutical synthesis, particularly for reactions requiring higher temperatures or specific solvation properties (e.g., Suzuki couplings, reductions). Component in electrolyte solutions.",
+    "other_industries": "Solvent for organometallic reactions, Grignard reactions, reductions, polymerizations; solvent for natural gas processing (acid gas removal); industrial solvent; component in lithium batteries."
+  },
+  {
+    "name": "1,1-Di(2-methoxy ethoxy)ethane (TEDM)",
+    "cas_no": "112-49-2",
+    "cins_no": "",
+    "molecular_formula": "C8H18O4",
+    "discription": "1,1-Di(2-methoxyethoxy)ethane is likely an acetal derivative of diethylene glycol monomethyl ether and acetaldehyde. More commonly, the abbreviation TEDM might refer to Triethylene Glycol Dimethyl Ether (CAS 112-49-2). This compound is a high-boiling aprotic solvent.",
+    "typical_properties": "Formula Weight: 178.226, Flash Point: 113°C, Boiling point: 216°C, Density (20°C): 0.986 g/cm³, Refractive Index (25°C): 1.423. Physical Properties: Colorless liquid.",
+    "packing": "200 kg",
+    "food_idustry": "",
+    "pharmaceutical_industry": "If Triethylene Glycol Dimethyl Ether: Used as a high-boiling reaction solvent in pharmaceutical synthesis where specific solvency and thermal stability are required. Can be part of specialized extraction or separation processes.",
+    "other_industries": "If Triethylene Glycol Dimethyl Ether: High-boiling solvent for chemical reactions, gas absorption, industrial cleaning, and in lithium batteries."
+  },
+  {
+    "name": "Tetraethylene Glycol Dimethyl Ether (TETREDM)",
+    "cas_no": "143-24-8",
+    "cins_no": "",
+    "molecular_formula": "C10H22O5",
+    "discription": "Tetraethylene Glycol Dimethyl Ether, also known as Tetraglyme, is a high molecular weight glyme ether. It is a polar aprotic solvent with a very high boiling point and excellent solvating capabilities, particularly for metal cations.",
+    "typical_properties": "Formula Weight: 222.279, Flash Point: 141°C, Boiling point: 276°C, Density (20°C): 1.009 g/cm³, Refractive Index (25°C): 1.432. Physical Properties: Colorless transparent liquid.",
+    "packing": "200 kg",
+    "food_idustry": "",
+    "pharmaceutical_industry": "Used as a high-boiling reaction solvent in pharmaceutical synthesis, especially for organometallic reactions and processes requiring high temperatures. Also used as a phase-transfer catalyst or solvent in complex syntheses.",
+    "other_industries": "High-boiling solvent for chemical reactions, gas absorption (e.g., Selexol process for CO2 and H2S removal), electrolytes for batteries, heat transfer fluids, industrial solvent."
+  },
+  {
+    "name": "Ethylene Glycol Diethyl Ether (DED)",
+    "cas_no": "629-14-1",
+    "cins_no": "",
+    "molecular_formula": "C6H14O2",
+    "discription": "Ethylene Glycol Diethyl Ether is a dialkyl ether of ethylene glycol. It is a colorless liquid used as a solvent in various chemical processes.",
+    "typical_properties": "Formula Weight: 118.174, Flash Point: 22°C, Boiling point: 121°C, Density (20°C): 0.842 g/cm³, Refractive Index (25°C): 1.3923. Physical Properties: Colorless liquid, slightly with ether flavor.",
+    "packing": "180 kg",
+    "food_idustry": "",
+    "pharmaceutical_industry": "Used as a reaction solvent in pharmaceutical synthesis, especially where a moderately polar aprotic solvent with a relatively low boiling point is suitable.",
+    "other_industries": "Solvent for organic reactions, extractions, resins, and lacquers."
+  },
+  {
+    "name": "Diethylene Glycol Diethyl Ether (DEDE)",
+    "cas_no": "112-36-7",
+    "cins_no": "",
+    "molecular_formula": "C8H18O3",
+    "discription": "Diethylene Glycol Diethyl Ether is a dialkyl ether of diethylene glycol. It is a colorless liquid with a higher boiling point than its ethylene glycol counterpart, used as a solvent.",
+    "typical_properties": "Formula Weight: 162.227, Flash Point: 67°C, Boiling point: 190°C, Density (20°C): 0.909 g/cm³, Refractive Index (25°C): 1.412. Physical Properties: Colorless transparent liquid.",
+    "packing": "180 kg",
+    "food_idustry": "",
+    "pharmaceutical_industry": "Used as a reaction solvent in pharmaceutical manufacturing processes that may require a higher boiling point or specific solvation characteristics.",
+    "other_industries": "High-boiling solvent for resins, lacquers, organic synthesis, and as an industrial cleaner component."
+  },
+  {
+    "name": "Diethylene Glycol Methyl Ethyl Ether (DEME)",
+    "cas_no": "1002-67-1",
+    "cins_no": "",
+    "molecular_formula": "C7H16O3",
+    "discription": "Diethylene Glycol Methyl Ethyl Ether is an asymmetrical dialkyl ether of diethylene glycol, offering a balance of properties between dimethyl and diethyl ethers of diethylene glycol. It serves as a solvent.",
+    "typical_properties": "Formula Weight: 148.21, Flash Point: 82°C, Boiling point: 179°C, Density (20°C): 0.922 g/cm³, Refractive Index (25°C): 1.408. Physical Properties: Colorless liquid.",
+    "packing": "200 kg",
+    "food_idustry": "",
+    "pharmaceutical_industry": "May be used as a specialty solvent in pharmaceutical synthesis or formulations where its specific solvency and physical properties are advantageous.",
+    "other_industries": "Solvent for coatings, inks, resins, and in chemical synthesis."
+  },
+  {
+    "name": "1,2-dibutoxyethane (EDB)",
+    "cas_no": "112-48-1",
+    "cins_no": "",
+    "molecular_formula": "C10H22O2",
+    "discription": "1,2-Dibutoxyethane, also known as Ethylene Glycol Dibutyl Ether, is a dialkyl ether of ethylene glycol. It is a colorless liquid with a characteristic ether odor, used as a high-boiling solvent.",
+    "typical_properties": "Formula Weight: 174.28, Flash Point: 85°C, Boiling point: 203.6°C, Density (20°C): 0.84 g/cm³, Refractive Index (25°C): 1.415. Physical Properties: Colorless liquid, with an ether odor.",
+    "packing": "180 kg",
+    "food_idustry": "",
+    "pharmaceutical_industry": "Used as a high-boiling reaction solvent in pharmaceutical synthesis, particularly for reactions involving organometallic reagents or requiring high temperatures.",
+    "other_industries": "High-boiling solvent for organic reactions, extraction processes, and as a component in industrial cleaners or specialty fluids."
+  },
+  {
+    "name": "Diethylene Glycol Di-n-butyl (DEDB)",
+    "cas_no": "112-73-2",
+    "cins_no": "",
+    "molecular_formula": "C12H26O3",
+    "discription": "Diethylene Glycol Di-n-butyl Ether is a high-boiling, stable, aprotic solvent with low water solubility and good solvency for various organic compounds.",
+    "typical_properties": "Formula Weight: 218.333, Flash Point: 118°C, Boiling point: 256°C, Density (20°C): 0.885 g/cm³, Refractive Index (25°C): 1.423. Physical Properties: Clear and colorless to pale yellow liquid.",
+    "packing": "180 kg",
+    "food_idustry": "",
+    "pharmaceutical_industry": "Can be used as a high-boiling reaction medium or extraction solvent in specific pharmaceutical synthesis processes, especially where low water miscibility is beneficial.",
+    "other_industries": "High-boiling solvent for chemical reactions, extraction, and separation processes; industrial cleaning applications; component in specialized fluids."
+  },
+  {
+    "name": "Polyethylene Glycol Dimethyl Ether (NHD250/500)",
+    "cas_no": "24991-55-7",
+    "cins_no": "",
+    "molecular_formula": "C4H10O2",
+    "discription": "Polyethylene Glycol Dimethyl Ether (CAS 24991-55-7) refers to a polymer of ethylene glycol where both terminal hydroxyl groups are methylated. The NHD250/500 likely refers to average molecular weight ranges (e.g., 250 or 500 g/mol). The provided MF C4H10O2 and FW 94.109 in the table are inconsistent with typical PEG dimethyl ethers of MW 250/500, rather fitting monoglyme (EDM), but the CAS number is for the polymer. These are generally aprotic solvents.",
+    "typical_properties": "Formula Weight: 94.109, Flash Point: 156°C, Boiling point: >250°C, Density (20°C): 1.03 g/cm³, Refractive Index (25°C): 1.441. Physical Properties: Light brown and clear liquid.",
+    "packing": "200 kg",
+    "food_idustry": "",
+    "pharmaceutical_industry": "Polyethylene glycol dimethyl ethers of various molecular weights are used as solvents in pharmaceutical synthesis, as absorption solvents, and in certain drug delivery systems. Their properties (viscosity, boiling point, solvency) vary with molecular weight.",
+    "other_industries": "Aprotic solvents for organic reactions, gas absorption (e.g., acid gas removal in Selexol process), electrolytes in lithium batteries, heat transfer fluids, surfactants, and in polyurethane foam production."
+  }
+]

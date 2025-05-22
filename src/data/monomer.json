@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Acrylamide",
+    "cas_no": "79-06-1",
+    "cins_no": "",
+    "molecular_formula": "C3H5NO",
+    "discription": "Acrylamide is an organic compound, a white, odorless crystalline solid. It is a monomer used to produce polyacrylamides and acrylamide copolymers. It is highly soluble in water and is a known neurotoxin and potential carcinogen.",
+    "typical_properties": "Standard Specifications: Content: ≥98.0%, Moisture: ≤0.8%, PH: 6-8, Polymerization inhibitor (e.g., MEHQ): 3-10 ppm (value in table ×10⁻⁶), Chroma: ≤10, Conductivity: ≤20 µs/cm, Iron content: ≤1 ppm (value in table ×10⁻⁶).",
+    "packing": "No information available",
+    "food_idustry": "",
+    "pharmaceutical_industry": "Primarily used in the laboratory for preparing polyacrylamide gels for electrophoresis (e.g., PAGE) to separate proteins and nucleic acids. Not for direct therapeutic human use.",
+    "other_industries": "Major use as a monomer for the synthesis of polyacrylamides (PAM) and copolymers, which are used in water and wastewater treatment (flocculant), paper manufacturing, ore processing, soil conditioning, gel electrophoresis, oil recovery, and manufacturing of dyes and permanent press fabrics."
+  },
+  {
+    "name": "DADMAC (Diallyldimethylammonium chloride)",
+    "cas_no": "7398-69-8",
+    "cins_no": "",
+    "molecular_formula": "C8H16NCl",
+    "discription": "Diallyldimethylammonium chloride (DADMAC) is a quaternary ammonium salt and a cationic monomer. It is primarily used for the synthesis of poly(diallyldimethylammonium chloride) (POLYDADMAC), a flocculant in water treatment and a component in various industrial applications. It is typically supplied as a liquid solution.",
+    "typical_properties": "Available in different grades:\nGrade WFCP 92-1: Appearance: Transparent Liquid, Solid Content: 60%, PH: 5-7, Color (AHPA): ≤ 50, NaCl: ≤ 3%.\nGrade WFCP 92-2: Appearance: Transparent Liquid, Solid Content: 65%, PH: 5-7, Color (AHPA): ≤ 50, NaCl: ≤ 3%.",
+    "packing": "No information available",
+    "food_idustry": "",
+    "pharmaceutical_industry": "The monomer itself has limited direct pharmaceutical use. Polymers derived from DADMAC (POLYDADMAC) may find applications as excipients or in specific biomedical contexts.",
+    "other_industries": "Primarily used as a monomer to produce POLYDADMAC. Applications of its polymer include water purification (coagulant, flocculant), paper industry (retention aid, drainage aid, charge neutralizer), textile industry (dye fixing agent), mining (flocculant), and in cosmetics."
+  },
+  {
+    "name": "DAC (Acryloyloxyethyltrimethylammonium chloride)",
+    "cas_no": "44992-01-0",
+    "cins_no": "",
+    "molecular_formula": "C9H18ClNO2",
+    "discription": "(2-Acryloyloxyethyl)trimethylammonium chloride, also known as Choline Acrylate Chloride or ADAMQUAT, is a cationic monomer. It is used in the synthesis of cationic polymers (polyquaterniums) for various applications including flocculation and conditioning.",
+    "typical_properties": "Solid Content: ≥78%, Appearance: Colorless or light-yellow transparent liquid, Acidity (as acrylic acid): ≤0.9%, Color (AHPA): ≤ 50, Chroma: ≤100. Storage: ≤25°C for 3 months; 2°C-8°C for 6 months.",
+    "packing": "No information available",
+    "food_idustry": "",
+    "pharmaceutical_industry": "Polymers derived from DAC, such as certain polyquaternium compounds, can be used as excipients in pharmaceutical formulations, or in drug delivery systems. The monomer itself is not for direct therapeutic use.",
+    "other_industries": "Used as a monomer for producing cationic polymers which serve as flocculants in water treatment, retention aids and wet strength resins in the paper industry, conditioning agents in personal care products (cosmetics, hair care), textile finishing agents, and in coatings."
+  },
+  {
+    "name": "POLYDADMAC",
+    "cas_no": "26062-79-3",
+    "cins_no": "",
+    "molecular_formula": "(C8H16NCl)n",
+    "discription": "Poly(diallyldimethylammonium chloride), or POLYDADMAC, is a cationic polyelectrolyte polymer. It is commonly used as a primary coagulant and flocculant in water treatment processes due to its high charge density. It is effective in a wide pH range.",
+    "typical_properties": "Appearance: Transparent Liquid, Solid content: ≥ 40%, pH value: 4-7, Viscosity: 4000-7000 mPa·s (typical units), Dissolving time (min): ≤ 10.",
+    "packing": "No information available",
+    "food_idustry": "Can be used in the clarification of raw sugar juice, beverage clarification, and treatment of wastewater from food processing plants.",
+    "pharmaceutical_industry": "May be used as an excipient in some pharmaceutical formulations or in biomedical applications for surface modification due to its cationic nature. Investigated for use in drug delivery systems.",
+    "other_industries": "Widely used in water treatment (potable water, industrial wastewater, sewage) as a coagulant and flocculant. Paper industry (retention aid, drainage aid, fixing agent for anionic trash), textile industry (color fixing agent, formaldehyde-free fixing agent), mining industry (flocculant for mineral processing), oil and gas industry (clay stabilizer, in drilling fluids), cosmetics (antistatic agent, film former in hair care products)."
+  },
+  {
+    "name": "Polyacrylamide (PAM)",
+    "cas_no": "9003-05-8",
+    "cins_no": "",
+    "molecular_formula": "(C3H5NO)n",
+    "discription": "Polyacrylamide (PAM) is a high molecular weight polymer formed from acrylamide monomers. It can be non-ionic, or by incorporating other monomers or through post-polymerization modification, it can be anionic or cationic. It's a water-soluble polymer used widely as a flocculant, thickener, soil conditioner, and in various industrial processes.",
+    "typical_properties": "Typically a white to off-white, odorless, granular solid or powder. Highly soluble in water, forming viscous solutions. Molecular weight, charge type (anionic, cationic, non-ionic), and charge density are key varying properties.",
+    "packing": "No information available",
+    "food_idustry": "Used in food processing applications such as clarification of sugar juice, wine, and beer (as a flocculant); treatment of wastewater from food processing plants; as an indirect food additive in packaging adhesives or paper in contact with food (subject to regulations).",
+    "pharmaceutical_industry": "Used in making polyacrylamide gels for electrophoresis (e.g., SDS-PAGE); as a binder or disintegrant in tablets; in some topical preparations; for controlled drug release systems; and certain derivatives in soft contact lenses or as biocompatible coatings.",
+    "other_industries": "Main applications include urban sewage treatment (flocculant), paper making (dry strength agent, retention agent, filter aid, to improve paper quality and production capacity), petrochemical industry (wastewater treatment), metallurgical miner dressing (flocculant), dyeing industry (wastewater treatment, thickener), sugar making (clarification), and all kinds of industrial wastewater treatment. In oil fields, it is used as an anti-clay swelling agent, acidification thickening agent, oil wastewater treatment agent, and for enhanced oil recovery (EOR). Also used in soil conditioning (erosion control), mining, textiles (sizing), and cosmetics (thickener, film former)."
+  }
+]

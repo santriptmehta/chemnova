@@ -14,6 +14,21 @@ import ConstructionChemical from "../data/Construction_Chemical.json"
 import AdhesiveMaterial from "../data/adhesive_material.json"
 import benzoic_Acid_De from "../data/benzoic_Acid_Derivatives.json"
 import Inorganic_Raw_Material from "../data/Inorganic_Raw_Materials.json"
+import AminesKetone from "../data/amines_ketone.json"
+import EthyleMonolEther from "../data/ethyl_monol_ethers.json"
+import Functional_monomer_2_3 from "../data/functional_monomers_2_3.json"
+import Glycol_Ether_Capping from "../data/glycol_ether_capping.json"
+import InorganicChemicals from "../data/inorganic_chemicals.json"
+import MethylAcrylicMonomers from "../data/methyl_acrylic_monomers.json"
+import Monomers from "../data/monomer.json"
+import OrganicRawMaterials from "../data/organic_raw_materials.json"
+import PharmaAPI from "../data/pharma_api.json"
+import PropanediolEther from "../data/propanediol_ethers.json"
+import ResinsCuringAgent from "../data/resins_curing_agents.json"
+import RubberPlasticMaterial from "../data/rubber_plastic_material.json"
+import SpecialityMonomers from "../data/speciality_monomers.json"
+import Vitamins from "../data/vitamins.json"
+
 
 export default function ProductListing() {
   return (
@@ -72,6 +87,45 @@ function ProductListingContent() {
     },
     "Inorganic Raw Materials":{
       data : Inorganic_Raw_Material
+    },
+    "Rubber & Plastic Material" : {
+      data : RubberPlasticMaterial
+    },
+    "Organic Raw Materials":{
+      data : OrganicRawMaterials
+    },
+    "Pharma API":{
+      data : PharmaAPI
+    },
+    "Vitamins":{
+      data : Vitamins
+    },
+    "Monomer":{
+      data : Monomers
+    },
+    "Propanediol Ethers":{
+      data : PropanediolEther
+    },
+    "Ethyl Monol Ethers":{
+      data : EthyleMonolEther
+    },
+    "Glycol Ether Capping" :{
+      data : Glycol_Ether_Capping
+    },
+    "Amines & Ketone" : {
+      data : AminesKetone
+    },
+    "Methyl & Acrylic Monomers":{
+      data : MethylAcrylicMonomers
+    },
+    "2 or 3 Functional Monomers":{
+      data : Functional_monomer_2_3
+    },
+    "Speciality Monomers":{
+      data : SpecialityMonomers
+    },
+    "Inorganic Chemicals":{
+      data : InorganicChemicals
     }
     // Add other data sources here as needed
   }
