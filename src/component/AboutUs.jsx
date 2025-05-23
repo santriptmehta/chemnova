@@ -116,8 +116,8 @@ export default function AboutUs() {
   const featureCards = [
     {
       id: "experience",
-      title: "30 Years Experiences In Chemicals",
-      subtitle: "Resourcing From China",
+      title: "10+ Years Experiences In Chemicals",
+      subtitle: "",
       icon: <Flask className="w-12 h-12 text-white" />,
     },
     {
@@ -133,10 +133,10 @@ export default function AboutUs() {
       icon: <Award className="w-12 h-12 text-white" />,
     },
     {
-      id: "support",
-      title: "Fast Reaction To Questions",
+      id: "logistics",
+      title: "Comprehensive Logistics Controlling",
       subtitle: "",
-      icon: <Headphones className="w-12 h-12 text-white" />,
+      icon: <Truck className="w-12 h-12 text-white" />,
     },
     {
       id: "responsibility",
@@ -145,11 +145,12 @@ export default function AboutUs() {
       icon: <HandshakeIcon className="w-12 h-12 text-white" />,
     },
     {
-      id: "logistics",
-      title: "Comprehensive Logistics Controlling",
+      id: "support",
+      title: "Fast Reaction To Questions",
       subtitle: "",
-      icon: <Truck className="w-12 h-12 text-white" />,
+      icon: <Headphones className="w-12 h-12 text-white" />,
     },
+    
   ]
 
   const fadeIn = {

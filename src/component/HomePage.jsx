@@ -68,7 +68,7 @@ export default function HomePage() {
   return (
     <>
       <div className="mx-auto max-w-2xl min-h-[100vh] flex flex-col justify-center items-center px-4">
-        <div className="text-center">
+        <div className="text-center mb-30">
           <h1 className="text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl">
             Empowering Industries with Reliable Chemical Solutions
           </h1>
