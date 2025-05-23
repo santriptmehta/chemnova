@@ -268,12 +268,11 @@ export default function AboutUs() {
         </motion.div>
       </div>
 
-      {/* Feature Cards Section */}
+      {/* Feature Cards Section  from-purple-600 to-cyan-600 */}
       <section
         id="features"
-        className="mt-24 py-16 bg-gradient-to-r from-purple-600 to-cyan-600 rounded-xl overflow-hidden relative"
+        className="mt-24 py-16 rounded-xl overflow-hidden relative"
       >
-        <div className="absolute inset-0 bg-grid-white/10 [mask-image:linear-gradient(0deg,rgba(255,255,255,0.1),rgba(255,255,255,0.5))]"></div>
         <div className="container mx-auto px-4 relative z-10">
           <motion.div
             className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
@@ -281,18 +280,29 @@ export default function AboutUs() {
             initial="hidden"
             animate={isVisible.features ? "visible" : "hidden"}
           >
-            {featureCards.map((feature) => (
-              <motion.div
-                key={feature.id}
-                className="bg-white/10 backdrop-blur-sm rounded-lg p-8 flex flex-col items-center text-center shadow-lg hover:shadow-xl transition-all duration-300 border border-white/20"
-                variants={fadeIn}
-                whileHover={{ y: -5, scale: 1.02, transition: { duration: 0.2 } }}
-              >
-                <div className="mb-4 bg-white/10 p-4 rounded-full">{feature.icon}</div>
-                <h3 className="text-lg font-bold text-white mb-1">{feature.title}</h3>
-                {feature.subtitle && <p className="text-white/80">{feature.subtitle}</p>}
-              </motion.div>
-            ))}
+            {featureCards.map((feature, index) => {
+
+              return (
+                <motion.div
+                  key={feature.id}
+                  className={`bg-indigo-100 border-indigo-200 rounded-lg p-8 flex flex-col items-center text-center shadow-lg hover:shadow-xl transition-all duration-300 border`}
+                  variants={fadeIn}
+                  whileHover={{ y: -5, scale: 1.02, transition: { duration: 0.2 } }}
+                >
+                  <div className={`mb-4 bg-purple-600 p-4 rounded-full`}>
+                    {feature.icon}
+                  </div>
+                  <h3 className={`text-lg font-bold text-indigo-800 mb-1`}>
+                    {feature.title}
+                  </h3>
+                  {feature.subtitle && (
+                    <p className={`text-indigo-800 opacity-80`}>
+                      {feature.subtitle}
+                    </p>
+                  )}
+                </motion.div>
+              );
+            })}
           </motion.div>
         </div>
       </section>

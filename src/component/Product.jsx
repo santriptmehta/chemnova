@@ -148,7 +148,6 @@ function ProductListingContent() {
 
       if (data && Array.isArray(data)) {
         try {
-          // Add industry to each product for filtering
           const industryProducts = data.map((product) => {
             return {
               ...product,
@@ -161,7 +160,6 @@ function ProductListingContent() {
             allIndustries.push(industryName)
           }
 
-          // Collect unique categories and sub-categories
           data.forEach((product) => {
             if (product.categories && Array.isArray(product.categories)) {
               product.categories.forEach((category) => {
@@ -185,7 +183,6 @@ function ProductListingContent() {
       }
     })
 
-    // Update state with all data
     setAllProducts(combinedProducts)
     setProducts(combinedProducts)
     setIndustries(allIndustries)
@@ -376,7 +373,7 @@ function ProductListingContent() {
           {/* Pagination */}
           {filteredProducts.length > 0 && totalPages > 1 && (
             <div className="mt-8 flex justify-center">
-              <nav className="flex items-center gap-1">
+              <nav className="flex items-center gap-1 flex-wrap justify-center">
                 <button
                   onClick={() => handlePageChange(Math.max(1, currentPage - 1))}
                   disabled={currentPage === 1}
@@ -385,17 +382,57 @@ function ProductListingContent() {
                   <ChevronLeft className="h-5 w-5" />
                 </button>
 
-                {pageNumbers.map((number) => (
-                  <button
-                    key={number}
-                    onClick={() => handlePageChange(number)}
-                    className={`px-3 py-1 rounded-md ${
-                      currentPage === number ? "bg-blue-900 text-white" : "text-blue-900 hover:bg-blue-100"
-                    }`}
-                  >
-                    {number}
-                  </button>
-                ))}
+                {(() => {
+                  const delta = 10;
+                  const range = [];
+                  const rangeWithDots = [];
+
+                  range.push(1);
+                  const start = Math.max(2, currentPage - delta);
+                  const end = Math.min(totalPages - 1, currentPage + delta);
+
+                  if(start > 2){
+                    rangeWithDots.push(1);
+                    rangeWithDots.push('...');
+                  }else{
+                    rangeWithDots.push(1);
+                  }
+                  for(let i = start; i<=end; i++){
+                    if(i != 1 && i != totalPages){
+                      rangeWithDots.push(i);
+                    }
+                  }
+
+                  if(end < totalPages - 1){
+                    rangeWithDots.push('...');
+                    rangeWithDots.push(totalPages);
+                  }else if(totalPages > 1){
+                    rangeWithDots.push(totalPages);
+                  }
+
+                  const uniquePages = [...new Set(rangeWithDots)];
+                  return uniquePages.map((pageNum, index) => {
+                    if (pageNum === '...'){
+                      return(
+                        <span key={`dots-${index}`} className="px-3 py-1 text-gray-500">
+                          ...
+                        </span>
+                      );
+                    }
+                    return (
+                      <button
+                        key={pageNum}
+                        onClick={() => handlePageChange(pageNum)}
+                        className={`px-3 py-1 rounded-md min-w-[40px] ${
+                          currentPage === pageNum ? "bg-blue-900 text-white" : "text-blue-900 hover:bg-blue-100"
+                        }`}
+                      >
+                        {pageNum}
+                      </button>
+                    );
+                  });
+
+                })()}
 
                 <button
                   onClick={() => handlePageChange(Math.min(totalPages, currentPage + 1))}
