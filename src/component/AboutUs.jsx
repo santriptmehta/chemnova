@@ -116,13 +116,13 @@ export default function AboutUs() {
   const featureCards = [
     {
       id: "experience",
-      title: "10+ Years Experiences In Chemicals",
+      title: "19+ Years Experiences In Chemicals",
       subtitle: "",
       icon: <Flask className="w-12 h-12 text-white" />,
     },
     {
       id: "quality",
-      title: "Serious Quality Management",
+      title: "Quality Management System",
       subtitle: "",
       icon: <Shield className="w-12 h-12 text-white" />,
     },
@@ -272,7 +272,7 @@ export default function AboutUs() {
       {/* Feature Cards Section  from-purple-600 to-cyan-600 */}
       <section
         id="features"
-        className="mt-24 py-16 rounded-xl overflow-hidden relative"
+        className="mt-12 py-12 rounded-xl overflow-hidden relative"
       >
         <div className="container mx-auto px-4 relative z-10">
           <motion.div
@@ -309,7 +309,7 @@ export default function AboutUs() {
       </section>
 
       {/* Benefits Section */}
-      <section id="benefits" className="mt-24 py-16 rounded-xl overflow-hidden">
+      <section id="benefits" className="mt-12 py-12 rounded-xl overflow-hidden">
         <div className="container mx-auto px-4">
           <motion.h2
             className="text-3xl font-bold text-center mb-12 bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-cyan-600"

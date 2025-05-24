@@ -84,8 +84,8 @@
         "other_industries": "Mainly used as the main ingredient of jasmine extracts, soap flavoring agents and other ingredients of spices and flavors.\n"
     },
     {
-        "name": "  Benzyl chloride",
-        "cas_no": " 100-44-7",
+        "name": "Benzyl chloride",
+        "cas_no": "100-44-7",
         "cins_no": "202-853-6",
         "molecular_formula": "C7H7Cl",
         "discription": "Benzyl chloride is widely used as an intermediate for manufacturing organic compounds including benzyl alcohol, Benzyl Cyanide and other benzyl compounds. It is used in fuel as a gum inhibitor.Its oxidation reaction with an alkali produces Benzaldehyde, alpha-Chlorinated Toluenes, used in the end applications of perfumery, dyes, pharmaceuticals, synthetic resins, photographic chemicals, warfare chemicals, Penicillins, quaternary ammonium compounds, plasticizer and esters.\n",
@@ -133,8 +133,8 @@
     },
     {
         "name": "Dicyclopentadiene",
-        "cas_no": " 77-73-6",
-        "cins_no": " 201-052-9",
+        "cas_no": "77-73-6",
+        "cins_no": "201-052-9",
         "molecular_formula": "C10H12",
         "discription": "DCPD hydrogenated resin is a water-white tackifying resin prepared by polymerization and hydrogenation with dicyclopentadiene (DCPD) as the main raw material. It has good tackifying properties, compatibility, thermal stability and light stability. Product use: DCPD hydrogenated resin is widely used in rubber, adhesives, printing inks, high-grade coatings, hot melt adhesives and other fields.\n",
         "typical_properties": "Colorless to light yellow liquid with ammonia smell, miscible with alcohol and ether, soluble in hot water, slightly soluble in cold water\n97% min\n85% min\nAppearance\nTransparent liquid, without mechanical impurities\nTransparent liquid, without mechanical impurities\nColority\n50 Hazen max\n100 Hazen max\nDCPD Content\n97% min\n85% min\nCyclopentadiene\n/\n/\nInhibitor(ppm)\nBHT: 100-150\nDMF: 1,000 max\nPTBC: 50-200\nMoisture(ppm)\n100 max\n200 max\nSO4(%)\n0.005 max\n0.005 max\nHeavy metals( as Pb,% )\n0.001 max\n0.001 max",
@@ -157,7 +157,7 @@
     },
     {
         "name": "Dimer acid",
-        "cas_no": "  61788-89-4",
+        "cas_no": "61788-89-4",
         "cins_no": "500-148-0",
         "molecular_formula": "C36H64O4",
         "discription": "Dimer acid, usually refers to dimer fatty acid, is a complex mixture, dimer acid refers to the dimer of linear unsaturated fatty acid or unsaturated fatty acid ester with linoleic acid of natural oil as the main component, which is self-condensed by Diels-Alder cycloaddition reaction under the catalysis of white clay. It is a mixture of multiple isomers, in which the main components are dimer, a small amount of trimer or polymer and a trace amount of unreacted monomer.\n",
@@ -181,7 +181,7 @@
     },
     {
         "name": "Dimethyl disulfide (DMDS)",
-        "cas_no": " 624-92-0",
+        "cas_no": "624-92-0",
         "cins_no": "210-871-0",
         "molecular_formula": "C2H6S2",
         "discription": "Dimethyl disulfide (DMDS) is an organic chemical compound with the molecular formula CH3SSCH3. It is a flammable liquid with an unpleasant, garlic-like odor. The compound is colorless although impure samples often appear yellowish.\n",
@@ -193,7 +193,7 @@
     },
     {
         "name": "N,N-Dimethylcyclohexylamine (DMCHA)",
-        "cas_no": " 98-94-2",
+        "cas_no": "98-94-2",
         "cins_no": " 202-715-5",
         "molecular_formula": "C8H17N",
         "discription": "N,N-dimethylcyclohexylamine is an organic compound with the chemical formula C8H17N. It is mainly used as an intermediate of catalysts and rubber accelerators, and can also be used for fabric treatment.\n",
@@ -228,21 +228,9 @@
         "other_industries": ""
     },
     {
-        "name": "",
-        "cas_no": "Colorless, odorless, hygroscopic and flammable transparent liquid at room temperature. It has both high polarity as well as high-boiling point. It also has aprotic and water-miscible characteristics. It has low toxicity, good thermal stability, and is not miscible with paraffin. It is soluble in water, ethanol, propanol, ether, benzene and chloroform and many other kinds of organic substance.\nAppearance\nColorless transparent liquid\nPurity(%)\n99.9 min\nCrystallization point( ℃)\n18.25 min\nAcid value ( mgKOH/g )\n0.03 max\nMoisture(%)\n0.05 max\nRefractive index\n1.4775 - 1.4790\nTransmittancy(%)\n96 min",
-        "cins_no": "In 225 kgs drum\n",
-        "molecular_formula": "",
-        "discription": "",
-        "typical_properties": "A wide range of primary pharmacological actions of Dimethyl Sulfoxide (DMSO) has been documented in laboratory studies: membrane transport, effects on connective tissue, anti-inflammation, nerve blockade (analgesia), bacteriostasis, diuresis, enhancements or reduction of the effectiveness of other drugs, cholinesterase inhibition, nonspecific enhancement of resistance to infection, vasodilation, muscle relaxation, antagonism to platelet aggregation, and influence on serum cholesterol in emperimental hypercholesterolemia. This substance induces differntiation and function of leukemic and other malignant cells. DMSO also has prophylactic radioprotective properties and cryoprotective actions. It protects against ischemic injury\n",
-        "packing": "",
-        "food_idustry": "",
-        "pharmaceutical_industry": "",
-        "other_industries": ""
-    },
-    {
         "name": "Dioctyl sebacate (DOS)",
         "cas_no": "122-62-3",
-        "cins_no": " 204-558-8",
+        "cins_no": "204-558-8",
         "molecular_formula": "C26H50O4",
         "discription": "Dioctyl sebacate, also known as dioctyl sebacate, has a molecular formula of C26H50O4 and is an ester organic compound, mainly used as a low-temperature plasticizer.\n",
         "typical_properties": "Transparent liquid. Insoluble in water, miscible with ethanol, ether and acetic acid. Has a foul odor, boiling point 109.7℃. Melting point -85℃.\nAppearance\nTransparent liquid, no suspension object\nColority ( Pt-Co )\n30 max\nPurity(%)\n99 min\nMoisture(%)\n0.1 max\nAcidity(mgKOH/g)\n0.04 max\nSpecific gravity(g/cm³)\n0.913-0.916",
@@ -252,7 +240,7 @@
         "other_industries": "Dioctyl Sebacate (DOS) is used as a plasticizer for PVC, Nitrocelluloses, Styrene resins, and synthetic rubbers where low temperature performance is required. DOS is also compliant with FDA CFR 21 for food contact materials. Dioctyl Sebacate can also be used in lubricants to allow more mobility at lower temperatures. DOS can be used as anti-frosting cable, artificial leather, outdoor cable, PVC linoleum, resins and synthetic rubbers. Dioctyl Sebacate provides a silky feel and spreads easily. Because of this, Dioctyl Sebacate finds use in the personal care industry and is found in deodorants and antiperspirants, makeup, skin conditioners, lotions, and sunscreens."
     },
     {
-        "name": " Formic acid",
+        "name": "Formic acid",
         "cas_no": "64-18-6",
         "cins_no": "200-579-1",
         "molecular_formula": "C4H6O2",
@@ -264,7 +252,7 @@
         "other_industries": "It is one basic chemicals for organic Chemical, mainly used in Pesticides ,Leather, dye, medicine and rubber industry. Medicine industry: Amino acid, caffeine, vitamins B1,etc. Pesticide Industry: Triadimefon , triadimefon, MET, insecticidal ether,etc. Chemical Industry: Formamide, dimethylformamide, antioxidant，etc. Leather Industry: Tanning agents for leather.Dye Industry: Acid dye. Rubber Industry: Nature Rubber's coagulation. Steel Industry: Acid Cleaning for steel.Paper Industry: Pulp manufacturing, etc.Feed Industry: Make feed,etc."
     },
     {
-        "name": " Furfuryl alcohol",
+        "name": "Furfuryl alcohol",
         "cas_no": "98-00-0",
         "cins_no": " 202-626-1",
         "molecular_formula": "C5H6O2",
@@ -408,7 +396,7 @@
         "other_industries": "Used in the manufacture of organic glass, coatings, lubricant additives, plastics, adhesives, resins, wood impregnation agents, motor coil impregnation agents, ion exchange resins, paper polishes, textile printing and dyeing auxiliaries, leather treatment agents, printing and dyeing auxiliaries and insulation potting materials, etc.\n"
     },
     {
-        "name": " Mono propylene gylcol",
+        "name": "Mono propylene gylcol",
         "cas_no": "57-55-6",
         "cins_no": "200-338-0",
         "molecular_formula": "C5H8O2",
@@ -456,7 +444,7 @@
         "other_industries": "It is mainly used as an intermediate, acid absorbent and solvent in organic synthesis. In the dye industry, it is used for the production of Cationic Brilliant Red 5GN, Cationic Pink FG, Cationic Pink B, Reactive Yellow Brown KGR, Reactive Yellow Brown KGR, Reactive Brilliant Blue X-BR, Reactive Orange K-2RL, Acid Blue BR, etc."
     },
     {
-        "name": "N-Methyl pyrrolidone\n（NMP)",
+        "name": "N-Methyl pyrrolidone NMP",
         "cas_no": "872-50-4",
         "cins_no": " 212-828-1",
         "molecular_formula": "C5H9NO",
@@ -492,7 +480,7 @@
         "other_industries": "Secondary ( MDBS ) and Third ( DMDBS ) generation of sorbierite type of polyolefine Nucleating agent, dosage in polyolefine is about 0.25%. Moreover, also can be used in rubber, chemical fiber, textile, printing, coating, and pigment, etc.\n"
     },
     {
-        "name": "p-dichlorobenzene\n(PDCB)",
+        "name": "p-dichlorobenzene - PDCB",
         "cas_no": "  106-46-7",
         "cins_no": "203-400-5",
         "molecular_formula": "C6H4Cl2",
@@ -600,7 +588,7 @@
         "other_industries": "For chemical reagents, but also for dyes, organic synthesis.\nUsed as the intermediates of medicine ( such as Doxycycline ), pesticides ( such as Dicofol ), dyes. Also used in detergents,\nplastics, coatings and so on.\nFor medicine, pesticides, dyes and detergents, but also for plastics and printing coatings.\nUsed in the catalyst synthetic medicine, pesticides, polymerization of the stabilizer and organic synthesis ( Esters, etc. ).\nAlso used as medicine, paint intermediates and resin curing agent."
     },
     {
-        "name": "P-Toluene sulfonyl isocyanate\n( PTSI )",
+        "name": "P-Toluene sulfonyl isocyanate ( PTSI )",
         "cas_no": "4083-64-1",
         "cins_no": "223-810-8",
         "molecular_formula": "C8H7NO3S",
@@ -636,7 +624,7 @@
         "other_industries": "Sodium acetate is used as buffers in petroleum production and drilling muds, in food preservations, and in electroplating. It is used as a retardant in elastomer industry. It is used in tanning to effect a more even and rapid penetration of the tan in the leather industry. It is also used as a mordant in dyeing processes. Sodium Acetate is an intermediate to manufacture organic compounds like dyes, pigments, pharmaceuticals, cinnamic acid. It is also used in soap industry and purification of glucose."
     },
     {
-        "name": "Sodium dichloroisocyanurate\n(SDIC)",
+        "name": "Sodium dichloroisocyanurate (SDIC)",
         "cas_no": "2893-78-9",
         "cins_no": "220-767-7",
         "molecular_formula": "C3Cl2N3NaO3",

@@ -22,7 +22,6 @@ import InorganicChemicals from "../data/inorganic_chemicals.json"
 import MethylAcrylicMonomers from "../data/methyl_acrylic_monomers.json"
 import Monomers from "../data/monomer.json"
 import OrganicRawMaterials from "../data/organic_raw_materials.json"
-import PharmaAPI from "../data/pharma_api.json"
 import PropanediolEther from "../data/propanediol_ethers.json"
 import ResinsCuringAgent from "../data/resins_curing_agents.json"
 import RubberPlasticMaterial from "../data/rubber_plastic_material.json"
@@ -61,77 +60,73 @@ function ProductListingContent() {
   const productsPerPage = 21
 
   const DATA_SOURCES = {
-    "Industrial Chemicals": {
-      data: IndustrialData,
-    },
-    "Food and Feed Additives": {
-      data: FoodAndFeedData,
-    },
-    "Pharm and Intermediates": {
-      data: PharmIntermediates,
-    },
-    "Beauty and Personal Care" : {
-      data : Beauty,
-    },
-    "Other Trading Chemicals" : {
-      data : OtherTradingChemical
-    },
-    "Construction Chemicals" :{
-      data : ConstructionChemical
-    },
-    "Adhesive Material":{
-      data : AdhesiveMaterial
-    },
-    "Benzoic Acid Derivatives":{
-      data : benzoic_Acid_De
-    },
-    "Inorganic Raw Materials":{
-      data : Inorganic_Raw_Material
-    },
-    "Rubber & Plastic Material" : {
-      data : RubberPlasticMaterial
-    },
-    "Organic Raw Materials":{
-      data : OrganicRawMaterials
-    },
-    "Pharma API":{
-      data : PharmaAPI
-    },
-    "Vitamins":{
-      data : Vitamins
-    },
-    "Monomer":{
-      data : Monomers
-    },
-    "Propanediol Ethers":{
-      data : PropanediolEther
-    },
-    "Ethyl Monol Ethers":{
-      data : EthyleMonolEther
-    },
-    "Glycol Ether Capping" :{
-      data : Glycol_Ether_Capping
-    },
-    "Amines & Ketone" : {
-      data : AminesKetone
-    },
-    "Methyl & Acrylic Monomers":{
-      data : MethylAcrylicMonomers
-    },
-    "2 or 3 Functional Monomers":{
-      data : Functional_monomer_2_3
-    },
-    "Speciality Monomers":{
-      data : SpecialityMonomers
-    },
-    "Inorganic Chemicals":{
-      data : InorganicChemicals
-    },
-    "Resing " : {
-      data : ResinsCuringAgent
-    }
-    // Add other data sources here as needed
-  }
+  "2 or 3 Functional Monomers": {
+    data: Functional_monomer_2_3,
+  },
+  "Adhesive Material": {
+    data: AdhesiveMaterial,
+  },
+  "Amines & Ketone": {
+    data: AminesKetone,
+  },
+  "Beauty and Personal Care": {
+    data: Beauty,
+  },
+  "Benzoic Acid Derivatives": {
+    data: benzoic_Acid_De,
+  },
+  "Construction Chemicals": {
+    data: ConstructionChemical,
+  },
+  "Ethyl Monol Ethers": {
+    data: EthyleMonolEther,
+  },
+  "Food and Feed Additives": {
+    data: FoodAndFeedData,
+  },
+  "Glycol Ether Capping": {
+    data: Glycol_Ether_Capping,
+  },
+  "Industrial Chemicals": {
+    data: IndustrialData,
+  },
+  "Inorganic Chemicals": {
+    data: InorganicChemicals,
+  },
+  "Inorganic Raw Materials": {
+    data: Inorganic_Raw_Material,
+  },
+  "Methyl & Acrylic Monomers": {
+    data: MethylAcrylicMonomers,
+  },
+  "Monomer": {
+    data: Monomers,
+  },
+  "Organic Raw Materials": {
+    data: OrganicRawMaterials,
+  },
+  "Pharm and Intermediates": {
+    data: PharmIntermediates,
+  },
+  "Propanediol Ethers": {
+    data: PropanediolEther,
+  },
+  "Resins & Curing Agents": {
+    data: ResinsCuringAgent,
+  },
+  "Rubber & Plastic Material": {
+    data: RubberPlasticMaterial,
+  },
+  "Speciality Monomers": {
+    data: SpecialityMonomers,
+  },
+  "Vitamins": {
+    data: Vitamins,
+  },
+  "Other Trading Chemicals": {
+    data: OtherTradingChemical,
+  },
+};
 
   useEffect(() => {
     // Reset states when component mounts

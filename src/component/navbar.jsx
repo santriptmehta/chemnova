@@ -23,43 +23,36 @@ const products = [
     name: "Industrial Chemical",
     description: "High-performance chemicals used across manufacturing and processing industries.",
     href: "/product/Industrial-Chemical",
-    icon: BeakerIcon,
   },
   {
     name: "Construction Chemical",
     description: "Enhancing durability, workability, and sustainability in building materials.",
     href: "/product/Construction-Chemical",
-    icon: FunnelIcon,
   },
   {
     name: "Beauty & Personal Care",
     description: "Ingredients and formulations that cater to skincare, haircare, and wellness.",
     href: "/product/Beauty-Personal-Care",
-    icon: UserIcon,
   },
   {
     name: "Food and Feed Additives",
     description: "Nutritional and functional additives for safe and enriched food/feed production.",
     href: "/product/Food-Feed-Additives",
-    icon: SquaresPlusIcon,
   },
   {
     name: "Speciality Chemicals",
     description: "Tailored chemical solutions for specific industrial and consumer applications.",
     href: "/product/Speciality-Chemicals",
-    icon: ArrowPathIcon,
   },
   {
     name: "Pharma Intermediates",
     description: "Essential building blocks used in the synthesis of active pharmaceutical ingredients.",
     href: "/product/Pharma-Intermediates",
-    icon: ArrowPathIcon,
   },
   {
     name: "Other Trading Imported Materials",
     description: "Diverse range of high-quality imported materials for industrial trading needs.",
     href: "/product/Other-Trading-Materials",
-    icon: ArrowPathIcon,
   },
 ]
 
@@ -113,9 +106,6 @@ export default function NavBar() {
                     to={item.href}
                     className="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm/6 hover:bg-gray-50 cursor-pointer"
                   >
-                    <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50 group-hover:bg-white">
-                      <item.icon aria-hidden="true" className="size-6 text-gray-600 group-hover:text-indigo-600" />
-                    </div>
                     <div className="flex-auto">
                       <div className="block font-semibold text-gray-900">{item.name}</div>
                     </div>

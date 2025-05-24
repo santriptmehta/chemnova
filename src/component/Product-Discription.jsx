@@ -63,19 +63,29 @@ export default function ProductDescription({ product, onBack }) {
       })
     }
 
-    // Add typical properties if available
     if (productData.typical_properties) {
-      // Split by semicolon if it's a string
       if (typeof productData.typical_properties === "string") {
-        const propertiesList = productData.typical_properties.split(";").map((prop) => prop.trim())
-        propertiesList.forEach((prop) => {
-          if (prop.includes(":")) {
-            const [key, value] = prop.split(":").map((item) => item.trim())
-            properties.push({ key, value })
-          } else if (prop.trim() !== "") {
-            properties.push({ key: "Property", value: prop })
+        // Split by period to separate logical blocks
+        const blocks = productData.typical_properties.split(".").map(block => block.trim()).filter(Boolean);
+
+        blocks.forEach((block) => {
+          // If block contains key-value pairs (identified by colon)
+          if (block.includes(":")) {
+            // Some blocks might have multiple comma-separated key-value pairs
+            const items = block.split(",").map(item => item.trim());
+            items.forEach((item) => {
+              if (item.includes(":")) {
+                const [key, value] = item.split(":").map(part => part.trim());
+                properties.push({ key, value });
+              } else if (item) {
+                properties.push({ key: "Property", value: item });
+              }
+            });
+          } else if (block) {
+            // Treat as a general property
+            properties.push({ key: "Property", value: block });
           }
-        })
+        });
       }
     }
 
