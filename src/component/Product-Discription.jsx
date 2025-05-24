@@ -15,6 +15,7 @@ import {
   Sparkles,
 } from "lucide-react"
 import { motion, AnimatePresence } from "framer-motion"
+import emailjs from '@emailjs/browser';
 
 export default function ProductDescription({ product, onBack }) {
   // If no product is provided, use a default example product
@@ -190,24 +191,37 @@ export default function ProductDescription({ product, onBack }) {
     e.preventDefault()
     setIsSubmitting(true)
 
-    // Simulate API call
-    setTimeout(() => {
+    emailjs.send(
+      'service_gy3iygv',
+      'template_z0l9ze5',
+      {
+        from_name : formData.name,
+        from_email : formData.email,
+        product_name : productData.name,
+        product_casno : (productData.cas_no == "") ? "CAS NO not available" : productData.cas_no,
+        company : formData.company,
+        quantity : formData.quantity,
+        message : formData.message
+      },
+      'ieS7UQCYWheobj8fc'
+    )
+    .then((result) =>{
+      console.log("Email Sent", result.text);
       setIsSubmitting(false)
       setSubmitSuccess(true)
 
-      // Reset after showing success message
-      setTimeout(() => {
-        setIsQuoteFormOpen(false)
-        setSubmitSuccess(false)
+      setTimeout(() =>{
+        setIsQuoteFormOpen(false);
+        setSubmitSuccess(false);
         setFormData({
-          name: "",
-          email: "",
-          company: "",
-          quantity: "",
-          message: "",
-        })
-      }, 3000)
-    }, 1500)
+          name : "",
+          email : "",
+          company : "",
+          quantity : "",
+          message : "",
+        });
+      }, 3000);
+    })
   }
 
   // Initialize properties, applications, and safety data

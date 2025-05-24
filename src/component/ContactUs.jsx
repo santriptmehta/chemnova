@@ -3,6 +3,8 @@
 import { useState } from "react";
 import { Send, CheckCircle, AlertCircle } from "lucide-react";
 import { motion } from "framer-motion";
+import emailjs from '@emailjs/browser';
+import { form } from "framer-motion/client";
 
 export default function ContactUs() {
   const [formData, setFormData] = useState({
@@ -60,12 +62,23 @@ export default function ContactUs() {
 
     try {
       // Simulate API call
-      await new Promise((resolve) => setTimeout(resolve, 1500));
-
+      const result = await emailjs.send(
+        'service_gy3iygv',
+        'template_dpzta0i',
+        {
+          from_name : formData.name,
+          from_email : formData.email,
+          subject: formData.subject,
+          message: formData.message,
+        },
+        'ieS7UQCYWheobj8fc'
+      );
+      console.log('Emial sent :', result.text);
       // Success
       setIsSubmitted(true);
       setFormData({ name: "", email: "", subject: "", message: "" });
     } catch (error) {
+      console.error('Email Send Error:', error);
       setSubmitError(true);
     } finally {
       setIsSubmitting(false);

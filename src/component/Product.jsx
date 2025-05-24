@@ -126,6 +126,9 @@ function ProductListingContent() {
     },
     "Inorganic Chemicals":{
       data : InorganicChemicals
+    },
+    "Resing " : {
+      data : ResinsCuringAgent
     }
     // Add other data sources here as needed
   }
